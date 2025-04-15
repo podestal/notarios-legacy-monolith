@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Documento sin título</title>
+</head>
+<script type="text/javascript">
+function fImprimir()
+{
+	
+	var _num_libro = "000007";
+	
+	if(_num_libro==''){alert('Debe guardar los datos primero');return;}
+
+    var _usuario_imprime = '<?php echo $_SESSION["apepat_usu"].' '.$_SESSION["nom1_usu"]; ?>';
+    var _nom_notario     = 'NOMBRE DEL NOTARIO';
+	var _dist_notario = 'LIMA';
+
+// prueba libro
+window.open('../../reportes_word/generador_libros.php?num_libro='+_num_libro+'&usuario_imprime='+_usuario_imprime+'&nom_notario='+_nom_notario+'&dist_notario='+_dist_notario+'&ano_libro='+_ano_libro);	
+
+}
+</script>
+
+<body>
+</body>
+</html>

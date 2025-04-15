@@ -1,0 +1,1 @@
+<iframe src="cargaminuta.php?kardex=<?php echo $_REQUEST["kardex"]; ?>" scrolling="no" frameborder="0" width="100%" height="300px" ></iframe>

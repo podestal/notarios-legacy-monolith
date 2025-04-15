@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ActoConVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247768872252171" remote="130247768870000000" Dst="-1" />
+<file name="clientVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247786056315043" remote="130247786050000000" Dst="-1" />
+<file name="ImpedidosVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247789206335214" remote="130247789200000000" Dst="-1" />
+<file name="tipoactovie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247773226681230" remote="130247773220000000" Dst="-1" />
+<file name="tipokarvie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226188142330330" remote="130226188140000000" Dst="-1" />
+<file name="tipoSellos.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247874053848214" remote="130247874050000000" Dst="-1" />
+<file name="PoderesConte.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247877402869767" remote="130247877400000000" Dst="-1" />
+<file name="Servicios.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130239043737404491" remote="130239043730000000" Dst="-1" />
+<file name="AsignaKardex.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130239048513597673" remote="130239048510000000" Dst="-1" />
+<file name="contServicios.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130239043011952997" remote="130239043010000000" Dst="-1" />
+<file name="EdiServicios.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130235659667233155" remote="130235659660000000" Dst="-1" />
+<file name="list_clientes.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247784835155197" remote="130247784830000000" Dst="-1" />
+<file name="list_impedidos.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247789264028514" remote="130247789260000000" Dst="-1" />
+<file name="list_permisos.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247888293852696" remote="130247888290000000" Dst="-1" />
+<file name="list_tipoacto.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247765611125645" remote="130247765610000000" Dst="-1" />
+<file name="PermisoxUsu.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247888058359226" remote="130247888050000000" Dst="-1" />
+<file name="PermiUsuarios.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247890450436045" remote="130247890450000000" Dst="-1" />
+<file name="pruebauif.html" server="//WIN-2LYCPYN2Y1F/notarios/" local="130189887787843407" remote="130189887780000000" Dst="-1" />
+<file name="Registrouif.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130244266451045955" remote="130244266450000000" Dst="-1" />
+<file name="ServicioVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130235604483686837" remote="130235604480000000" Dst="-1" />
+<file name="list_ActoCon.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247765443616064" remote="130247765440000000" Dst="-1" />
+<file name="servicios2.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130239029561973703" remote="130239029560000000" Dst="-1" />
+<file name="list_tcambio.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247883383961866" remote="130247883380000000" Dst="-1" />
+<file name="Tipo_cambio.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247883639046456" remote="130247883630000000" Dst="-1" />
+<file name="abogados.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130765501320000000" remote="130765501320000000" Dst="0" />
+<file name="ActoConVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594540000000" remote="130630594540000000" Dst="0" />
+<file name="AsignaCaracteristicas.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130338661040000000" remote="130338661040000000" Dst="0" />
+<file name="AsignaCartas.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130338661220000000" remote="130338661220000000" Dst="0" />
+<file name="AsignaDomiciliario.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130338661360000000" remote="130338661360000000" Dst="0" />
+<file name="AsignaKardex.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="131008892458876276" remote="131008892450000000" Dst="0" />
+<file name="AsignaLibros.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="131000454824692954" remote="131000454820000000" Dst="0" />
+<file name="AsignaPCapaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130338661600000000" remote="130338661600000000" Dst="0" />
+<file name="AsignaPoderes.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130338661700000000" remote="130338661700000000" Dst="0" />
+<file name="AsignaViaje.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130338681960000000" remote="130338681960000000" Dst="0" />
+<file name="cargar_data.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130708292020000000" remote="130708292020000000" Dst="0" />
+<file name="cargar_data_comple.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130708294880000000" remote="130708294880000000" Dst="0" />
+<file name="clientVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594460000000" remote="130630594460000000" Dst="0" />
+<file name="contServicios.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130584838480000000" remote="130584838480000000" Dst="0" />
+<file name="EdiServicios.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594500000000" remote="130630594500000000" Dst="0" />
+<file name="eliminarimp.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594460000000" remote="130630594460000000" Dst="0" />
+<file name="estudioab.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130765501940000000" remote="130765501940000000" Dst="0" />
+<file name="funciones_ro.js" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130855194260000000" remote="130855194260000000" Dst="0" />
+<file name="grabar_cliente_imp1.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130758334260000000" remote="130758334260000000" Dst="0" />
+<file name="grabar_cliente_imp1_1.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130756701560000000" remote="130756701560000000" Dst="0" />
+<file name="grabar_cliente_imp2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130758330260000000" remote="130758330260000000" Dst="0" />
+<file name="grabar_cliente_imp2_2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130756694580000000" remote="130756694580000000" Dst="0" />
+<file name="ImpedidosVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130766239200000000" remote="130766239200000000" Dst="0" />
+<file name="list_ActoCon.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594460000000" remote="130630594460000000" Dst="0" />
+<file name="list_clientes.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594460000000" remote="130630594460000000" Dst="0" />
+<file name="list_control_impedidos.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130688575180000000" remote="130688575180000000" Dst="0" />
+<file name="list_impedidos.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594460000000" remote="130630594460000000" Dst="0" />
+<file name="list_permisos.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594460000000" remote="130630594460000000" Dst="0" />
+<file name="list_tcambio.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594440000000" remote="130630594440000000" Dst="0" />
+<file name="list_tipoacto.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594440000000" remote="130630594440000000" Dst="0" />
+<file name="mant_abogado.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130984773808780684" remote="130984773800000000" Dst="0" />
+<file name="newimpedidoglobal.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594440000000" remote="130630594440000000" Dst="0" />
+<file name="PermisoxUsu.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594480000000" remote="130630594480000000" Dst="0" />
+<file name="PermiUsuarios.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130559801800000000" remote="130559801800000000" Dst="0" />
+<file name="PoderesConte.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594480000000" remote="130630594480000000" Dst="0" />
+<file name="pruebauif.html" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594440000000" remote="130630594440000000" Dst="0" />
+<file name="Registrouif.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130912991225767181" remote="130912991220000000" Dst="0" />
+<file name="reiniciar_data.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594440000000" remote="130630594440000000" Dst="0" />
+<file name="Servicios.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594480000000" remote="130630594480000000" Dst="0" />
+<file name="servicios2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594440000000" remote="130630594440000000" Dst="0" />
+<file name="ServicioVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594480000000" remote="130630594480000000" Dst="0" />
+<file name="tipoactovie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594440000000" remote="130630594440000000" Dst="0" />
+<file name="tipokarvie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594420000000" remote="130630594420000000" Dst="0" />
+<file name="tipoProtestos.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594440000000" remote="130630594440000000" Dst="0" />
+<file name="tipoSellos.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594440000000" remote="130630594440000000" Dst="0" />
+<file name="Tipo_cambio.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257320000000" remote="130284257320000000" Dst="0" />
+</dwsync>

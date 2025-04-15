@@ -1,0 +1,34 @@
+<Libros xmlns='http://ancert.notariado.org/SISGEN/XML' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://ancert.notariado.org/SISGEN/XML'>
+<Libro>
+<Documento>
+<CodNotario>19010413</CodNotario>
+<DniNotario>02423157</DniNotario>
+<Notario>RODRIGUEZ ZEA RENEE RODOLFO</Notario>
+<CodNotaria>10024231572</CodNotaria>
+<DescNotaria>JR. BOLIVAR 340 CERCADO JULIACA</DescNotaria>
+<TelNotaria>326609</TelNotaria>
+<NumLibro>1</NumLibro>
+<FechaLegalizacion>2024-02-29</FechaLegalizacion>
+<TipoLibro>16</TipoLibro>
+<DescLibro>Libro de actas</DescLibro>
+<NumFolios>400</NumFolios>
+<NumControl>10247</NumControl>
+<NumCronologico>331</NumCronologico>
+</Documento>
+<Maestros>
+<PersonasJuridicas>
+
+			<PersonaJuridica>
+<DocsIdentificativos>
+
+					<DocIdentificativo>
+<TipoDocIdentidad></TipoDocIdentidad>
+<NumDocIdentificativo></NumDocIdentificativo>
+</DocIdentificativo>
+
+				</DocsIdentificativos>
+<RazonSocial>ASOCIACION DE RECICLADORES LA CIUDAD DE LOS VIENTOS</RazonSocial>
+</PersonaJuridica></PersonasJuridicas>
+</Maestros>
+</Libro>
+</Libros>

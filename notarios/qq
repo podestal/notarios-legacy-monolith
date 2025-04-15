@@ -1,0 +1,450 @@
+[33mcommit a43f13cd8570f009666b79b70e9bec436107d1b9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jean Anderson <jeander_159@hotmail.com>
+Date:   Sat Jul 16 14:49:30 2022 -0500
+
+    Modificacion de consulta de apiPERU por php
+
+[33mcommit fe680bdba7bdf859ca1253be538e68108b17001e[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Wed Jun 1 10:32:03 2022 -0500
+
+    ordenamiento alfabetico de tipos de libro en extraprotocolares
+
+[33mcommit 6552830b6c52ae033fd12ede8141aea0cf95ed86[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Apr 19 08:53:11 2022 -0500
+
+    cambio de nombre al menu de busqeudas avanzadas 2013-2020  a indices cronologicos
+
+[33mcommit f2111708cd759bcd86ef7ef2216140f067c3ec25[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Wed Apr 13 17:07:06 2022 -0500
+
+    correcion de edicion de ubigeo para documentos protocolares
+
+[33mcommit 79476576de1506b750430b1583b19e2750a41043[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Apr 7 09:50:09 2022 -0500
+
+    se incorporo campo de ubigeo en bd y edicion del distrito para generador de plantillas
+
+[33mcommit 66b01c8a4c8a4ab18d290a020b8f4f30382e1e56[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Sat Apr 2 11:11:10 2022 -0500
+
+    actualizacion de medios de pago en generador de trasnferencia vehicular 008,009
+
+[33mcommit 1e360c0ff5aeeb5900c114c2e4946cd1145d450d[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Sat Apr 2 10:25:57 2022 -0500
+
+    validacion de generador de documentos para que no quede nulo el ubigeo en caso no existe 2
+
+[33mcommit dd3d0b18c68cbc0163305e9c3c974e5016a9a8a7[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Sat Apr 2 10:23:01 2022 -0500
+
+    validacion de generador de documentos para que no quede nulo el ubigeo en caso no existe
+
+[33mcommit 845c39bde97fbe8138478edfca5f7c39641dea7f[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Mon Mar 28 15:56:32 2022 -0500
+
+    correcion de busqueda de instrumentos protocolares 2021-2022
+
+[33mcommit 23a8345c56c7a1f1212294652764c86a224a634d[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Mar 17 12:50:36 2022 -0500
+
+    validacion del campo de tipo de cambio en llenado de kardex
+
+[33mcommit 81801e263e61980cb234918b2139ce1238b9580f[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Wed Mar 16 09:01:53 2022 -0500
+
+    modificacion de menu de busqeudas sisnot mercerdes 2
+
+[33mcommit ba70e8a69386feb22add99f6954e1f4d0eb28ddc[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Wed Mar 16 08:55:54 2022 -0500
+
+    modificacion de menu de busqeudas sisnot mercerdes
+
+[33mcommit bb910af35dc368120e11e37dbc766335756faacc[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Fri Mar 11 12:15:26 2022 -0500
+
+    se agrego menu para busqeudas avanzadas sisnot mercedes
+
+[33mcommit 9f52d1e3cbe8f076b4aec52f39e594403f8d2323[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Wed Feb 23 11:13:30 2022 -0500
+
+    Se quito espacio en blanco en el caso qeu el cliente no tenga segundo nombre
+
+[33mcommit 6bcacc8ea3072652e67563e0bd74eef5d8dccf98[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Mon Feb 21 13:10:28 2022 -0500
+
+    se agrego loader para busqeuda de extraprotocolares
+
+[33mcommit 727563e14bf511136f551add015c634df84c64a1[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Mon Feb 21 12:34:42 2022 -0500
+
+    se agrego loader para busqeu da de protocolares y predios corregido
+
+[33mcommit ec3187a5e83a6b44fc88f380fa62c7564ae7f013[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Mon Feb 21 12:31:36 2022 -0500
+
+    se agrego loader para busqeu da de protocolares y predios
+
+[33mcommit 9d0349b78f3e57aaa0df53073cfd0b4b834146d0[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Mon Feb 21 10:51:16 2022 -0500
+
+    se agrego combinacion de busqueda de predios
+
+[33mcommit 68335e2af6ddb9cb3c6630daec20e8dd8aa340da[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Sat Feb 19 13:05:13 2022 -0500
+
+    correccion de errores de busqueda de predios
+
+[33mcommit 89f3e689959878d52ab4fd50a8ef9a8250124186[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Sat Feb 19 13:01:18 2022 -0500
+
+    se agrego enlace para busqueda por predio
+
+[33mcommit 5546ff8a1e59c18f23290ad14567fbfe2ad71ace[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Sat Feb 19 12:47:17 2022 -0500
+
+    optimizacion de busqeuda por cliente en busquedas avanzandas protocolares
+
+[33mcommit 296da596e365651b4ff50002eaa9782be92dde5d[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Sat Feb 19 12:32:01 2022 -0500
+
+    correcion de fecha de registro en predio
+
+[33mcommit 4508b5df8a0dccb6300c086a379989e3083609df[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Sat Feb 19 12:27:07 2022 -0500
+
+    se agrego fecha de registro a predios
+
+[33mcommit a989408c1475ff3bbe442506299cd334a678e9f2[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Sat Feb 19 12:08:27 2022 -0500
+
+    correcion de tipo y codigo de zona en predios
+
+[33mcommit 99ece02eed02ce4bc50178c0e81e48148a605f28[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Sat Feb 19 11:10:56 2022 -0500
+
+    correcion de espacio en blanco en segundo nombre en busqueda de predios por propietarios
+
+[33mcommit 1fa8ecddff011fe5287e1ba060eac8f04223412d[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Sat Feb 19 10:36:37 2022 -0500
+
+    IMplementacion de busquedas por propietario en predios
+
+[33mcommit c22b1ec76f0076b82e94febd1a62dced3331026b[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Fri Feb 18 09:17:00 2022 -0500
+
+    optimizacion de busqeuda de dni en el sistema
+
+[33mcommit 71dbcbba303ce509cd8664497180fa725eed4c1d[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Feb 8 15:46:43 2022 -0500
+
+    actualizacion de consultas reniec en todos los modulos del sisnot
+
+[33mcommit dce5d682c55a2d3fa41b5dc3b24d32f4dd785e80[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Mon Feb 7 12:38:46 2022 -0500
+
+    actualizacion de generador de plantillas de escrituras
+
+[33mcommit 00c479263c3ea10d2519e60cf50729aa9dca375f[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Feb 3 11:36:15 2022 -0500
+
+    actualizacion de generador de libros
+
+[33mcommit 55490c2dd2ccf5410c7efc4b9296d502befdd427[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Fri Jan 28 00:01:31 2022 -0500
+
+    Coreccion del generador y plantilla de permisos de viaje
+
+[33mcommit 563a882f113ab9cae5a98224bc00939e835def24[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Jan 27 01:24:42 2022 -0500
+
+    actualizacion de plantillas y generador de poderes fuera de registro
+
+[33mcommit 222a4a05128cacb390945ef2ce4518fd83a169a0[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Wed Jan 12 09:59:52 2022 -0500
+
+    correcion de numero de documento en generador de libros
+
+[33mcommit 7f3c8a701183c01779533a6d78b0d230598c36ab[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Jan 11 11:23:29 2022 -0500
+
+    Actualizacion del Reporte Estadistico UIF-IAOC
+
+[33mcommit 838830634fceaf57eefafceb36660905ab69735a[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Fri Jan 7 10:37:19 2022 -0500
+
+    correcion de menu y boton de generar fecha
+
+[33mcommit 74febbde59cec9d9d6faef8b51171bfc5f6ec2c1[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Jan 6 18:11:51 2022 -0500
+
+    Modificacion de menu notarios
+
+[33mcommit c21776f189c2bfae81aea7bb86eb62ccff62eddc[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Jan 6 18:07:59 2022 -0500
+
+    Actualizacion de modulo de busqeudas protocoalres
+
+[33mcommit acc1b34505dddd72e1d4e49203110af51d24614b[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Jan 6 17:23:12 2022 -0500
+
+    correcion de link de escaneo y kardex en busqeuda protocoalres
+
+[33mcommit 31d4d4b09c6eb2d0afebf89ec5ce7bf90d287066[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Jan 6 16:59:41 2022 -0500
+
+    funcion para generar fecha de escritura y Busqueda avanzada de documentos protocolares
+
+[33mcommit d2335d8888f5081a86a931158141fead6313e39d[m
+Author: azjhomaq <azjhomaq@gmail.com>
+Date:   Wed Jan 5 13:06:25 2022 -0500
+
+    actualizacion de busquedas protocolares
+
+[33mcommit 3ac90d17cda0c1b0d65321fcf626a1bd4aa92e69[m
+Merge: a2dba75 1eb75ee
+Author: azjhomaq <azjhomaq@gmail.com>
+Date:   Wed Jan 5 12:51:38 2022 -0500
+
+    branch 'master' of https://github.com/reneerodriguez/notarios_nrz wq
+
+[33mcommit a2dba7596dc706b27c872733571017428c5da9f9[m
+Author: azjhomaq <azjhomaq@gmail.com>
+Date:   Wed Jan 5 12:50:42 2022 -0500
+
+    busqueda_protocolares
+
+[33mcommit 1eb75eeff0b297e50ab8236a09a43aa3652e0adb[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Mon Jan 3 11:18:11 2022 -0500
+
+    Actualizacion de asignacion de libros por años
+
+[33mcommit a28461aa3044711a4b708124dbbdab932a4427e0[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Fri Dec 31 12:53:04 2021 -0500
+
+    actualizacion de indice no contenciosos
+
+[33mcommit 7fde6ab1b5ba9d4dea1561d9bf2c6b298301ff3f[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Dec 30 12:09:27 2021 -0500
+
+    actualizacion de indices y modificacion de ancho de campo dni solicitante en libros
+
+[33mcommit 99de0672bcecef15b29ea6fc20291cf99e2876dc[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Dec 21 16:15:54 2021 -0500
+
+    Creacion del modulo de reportes de indice cronologico de certidicado domiciliario
+
+[33mcommit fb1c24f09c626b5c395d7990b99250d31c68cb15[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Dec 21 10:59:56 2021 -0500
+
+    actualizacion de generacion de parte notarial de transferencias vehiculares
+
+[33mcommit 9c18caa675b5bc7b8512a15800a8beacb43c5e16[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Dec 21 08:36:37 2021 -0500
+
+    Actualizacion de ordenamiento de archivos generados Documentos Protocolares y Extraprotocolares
+
+[33mcommit 904cd87898606a77fc864d3e620b475306316459[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Dec 7 18:27:27 2021 -0500
+
+    actualizacion del indice cronologico: duplicado de patrimonio
+
+[33mcommit 4e3994dc817f25ad46da5972ac65744f708fc470[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Dec 7 17:57:42 2021 -0500
+
+    correcion del indice cronologico de transferencias vehicular. se quito duplicado
+
+[33mcommit 29bb507caafb35e704829b187aed134f7e42070c[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Dec 7 17:29:57 2021 -0500
+
+    Se corrigo los espacios en blanco en consulta por placa en vehiculo
+
+[33mcommit f4617ebefc4b8bd7b777f6aa1a4cf470b5ef23c8[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Dec 7 17:25:28 2021 -0500
+
+    correcion de la busqueda por placa en vehiculos
+
+[33mcommit 26c3dac21964c44227282bc5bdbf7d6ffe0898f6[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Dec 7 16:42:18 2021 -0500
+
+    creacion de la funcion para consutas por placa del vehiculo
+
+[33mcommit c06c1ac8f2d3cd6f65e470ea9e8f20448dcef4f7[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Dec 2 15:20:22 2021 -0500
+
+    actualizacion de indices cronologicos de transferencias vehiculares, no contenciosos y garantias mobilirarias
+
+[33mcommit 019c70da0c25afa0d3a63de37f96410bf6aea15b[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Nov 30 12:19:27 2021 -0500
+
+    compresion de iconos reniec y sunat
+
+[33mcommit f0ea245bf26cb1ce35b52fa26fbda9aba1b5f433[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Nov 30 12:09:57 2021 -0500
+
+    redimensianmiento de iconos de reniec y sunat
+
+[33mcommit 6d9a6b1d704d237a34d4f21e25259f707c2aa8ff[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Nov 25 10:34:50 2021 -0500
+
+    actualizacion de generador de Apertura de libros
+
+[33mcommit 7cf83c22116c6a1cebc2afb0964b3b6d048623a4[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Wed Nov 24 11:31:57 2021 -0500
+
+    Actualizacion de busqeudas de CODJURIDICA en apertura de libros
+
+[33mcommit dc1f8c7b71d7ebf5be0466b35616c2d9d3384e1f[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Nov 23 10:48:31 2021 -0500
+
+    actualizacion del generador de Apertura de Libros
+
+[33mcommit 3eebf68d6baa7412afe147475558f28a2ef37daa[m
+Author: Renee Rodriguez Zea <r.rodriguez@amau.tech>
+Date:   Tue Nov 23 10:29:56 2021 -0500
+
+    Restauracion del archivo IAOC_Report
+
+[33mcommit f81ac6ecdf252c591de865263632b8378eab1b80[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Nov 23 10:25:57 2021 -0500
+
+    actualizacion de indice cronologico de Apertura de Libros
+
+[33mcommit 80ae1b6fd6e11a3ac82738231d04562dba65b7ba[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Wed Nov 17 16:16:42 2021 -0500
+
+    ACTUALIZACION DE REPORTES DE INDICICES ALFABETICOS
+
+[33mcommit b29df9d536fd19c3fc464361d4d8eedbaa594887[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Fri Oct 29 12:56:39 2021 -0500
+
+    segunda correcion de abrir pdf del scaneo en reporte de pendiente correlativo
+
+[33mcommit deb4dd159852d3b636d761bd4a242c4cfe315b50[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Fri Oct 29 12:54:05 2021 -0500
+
+    Correccion de error de apertura de pdf en reporte pendiente de correlativos
+
+[33mcommit 03409853085a3c8c336930014025b8c876f48ab1[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Fri Oct 29 12:48:54 2021 -0500
+
+    Implementacion de generacion de reportes de indices cronologicos en excel
+
+[33mcommit 2485aa08c84cb043cc38df6c7d98c4c3f13f67ff[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Oct 28 17:27:12 2021 -0500
+
+    Agregacion de intervinientes al reporte cronologico de escrituras
+
+[33mcommit 89e35ef373c7983c8bb8fa3bf96ba74bc0d1c8ff[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Oct 28 11:42:40 2021 -0500
+
+    Implementacion de boton para vaciar escrituracion de un kardex
+
+[33mcommit 1b3d9a22dfb42b32c0410e3cb01c2825334d3629[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Tue Oct 26 16:32:56 2021 -0500
+
+    Actualizacion en velocidad de descarga de reporte de indices cronologicos de escrituras y transferencias
+
+[33mcommit 50931ac39ba96135d47b7ab41dad9e7c819d2c6e[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Sat Oct 23 13:41:29 2021 -0500
+
+    Se corrio error de duplicado en Indices Crono de transferencias y escrituras
+
+[33mcommit 3b416a433290fa3f731ce77c20ba19f832813117[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Sat Oct 23 13:37:54 2021 -0500
+
+    Actualizacion de indicies cronologias de escrituras y transferencias
+
+[33mcommit 4dc1adc9df303130161407a6a1208ab254b6a75b[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Fri Oct 22 12:54:56 2021 -0500
+
+    Generacion en otro formato de indice cronologico de escrituras y transferencias
+
+[33mcommit dc3cd2f1a4ea1229b2cf430f7e8373f283bff20f[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Oct 21 16:51:53 2021 -0500
+
+    Se agrego numero de kardex al indice cronologico escrituras publicas
+
+[33mcommit 989e9360d94396114390842424f31122375c6688[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Oct 21 16:49:50 2021 -0500
+
+    actulizacion de reporte cronologico de escrituras publicas
+
+[33mcommit 517d02c2fa86c12caf81e59f82539774159a5aa6[m
+Author: Jean Amautech <jean@amau.tech>
+Date:   Thu Oct 21 16:46:09 2021 -0500
+
+    actualizacion del indice cronologico de escrituras publicas
+
+[33mcommit 07b8db4c6bdeed8c0d0640eab1fc0c6cf1930b16[m
+Author: Renee Rodriguez Zea <r.rodriguez@amau.tech>
+Date:   Thu Oct 21 12:52:53 2021 -0500
+
+    VERION 1.0 SISNOT NOTARIA RODRIGUEZ ZEA

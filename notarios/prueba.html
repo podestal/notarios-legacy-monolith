@@ -1,0 +1,470 @@
+
+
+<!--<link rel="stylesheet" type="text/css" href="css/default.css" />-->
+	<link rel="stylesheet" type="text/css" href="css/jquery-ui-1.7.2.custom.css" />
+    <link rel="stylesheet" type="text/css" href="tcal.css" />
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js">
+    </script>
+<script language="javascript" src="include/ajax.js"></script>
+<script language="JavaScript" src ="include/javascript/funciones.js"> </script>
+<script type="text/javascript" src="tcal.js"></script> 
+
+<!-- cargar imaganes-->
+<!--<script type="text/javascript" src="jquery-1.4.3.min.js"></script>
+<script type="text/javascript" src="jquery.uploadify.v2.1.0.min.js"></script>
+<script type="text/javascript" src="swfobject.js"></script>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function() {
+	$('#fileInput').uploadify({
+		'uploader'  : 'uploadify.swf',
+		'script'    : 'uploader.php',
+		/*'script'     : 'carga1.php',*/
+		'cancelImg' : 'cancel.png',
+		'auto'      : true,
+		'folder'    : 'uploads',
+		'scriptData' : {'texto': $("#mitexto").val()},
+		'onComplete': function(event, queueID, fileObj, response, data) {
+ 		    $('#fotosWrapper').append(response);
+		 // modalidad=document.form.getElementById('txtfechaRegistro').value;
+		/*  modalidad=document.form.mitexto.value;
+		alert(modalidad);*/
+	 
+		}
+	});
+});
+
+// ]]>
+</script>
+-->
+
+<!-- Fin -->
+<script language="javascript" type="text/javascript">
+function popitup(url) {
+
+	newwindow=window.open(url,'name','height=700,width=900');
+
+	if (window.focus) {newwindow.focus()}
+
+	return false;
+
+}
+// -->
+</script>
+<script language="javascript" >
+
+function formatCurrency(num) {
+
+num = num.toString().replace(/\$|\,/g,'');
+
+if(isNaN(num))
+
+num = "0";
+
+sign = (num == (num = Math.abs(num)));
+
+num = Math.floor(num*100+0.50000000001);
+
+cents = num%100;
+
+num = Math.floor(num/100).toString();
+
+if(cents<10)
+
+cents = "0" + cents;
+
+for (var i = 0; i < Math.floor((num.length-(1+i))/3); i++)
+
+num = num.substring(0,num.length-(4*i+3))+'.'+
+
+num.substring(num.length-(4*i+3));
+
+return (((sign)?'':'-') + num + '.' + cents);
+
+}
+
+
+
+function cambiaValor1(){
+	if(document.form.chkBalcon.checked){
+		document.form.chkBalcon.value="1"
+	}
+	else{
+		document.form.chkBalcon.value="0"
+	}
+
+}
+
+function cambiaValor2(){
+	if(document.form.chkDeposito.checked){
+		document.form.chkDeposito.value="1"
+	}
+	else{
+		document.form.chkDeposito.value="0"
+	}
+
+}
+
+function cambiaValor3(){
+	if(document.form.chkAireCondicionado.checked){
+		document.form.chkAireCondicionado.value="1"
+	}
+	else{
+		document.form.chkAireCondicionado.value="0"
+	}
+
+}
+
+function cambiaValor4(){
+	if(document.form.chkPatio.checked){
+		document.form.chkPatio.value="1"
+	}
+	else{
+		document.form.chkPatio.value="0"
+	}
+
+}
+
+
+function cambiaValor5(){
+	if(document.form.chkHabilitado1.checked){
+		document.form.chkHabilitado1.value="1"
+	}
+	else{
+		document.form.chkHabilitado1.value="0"
+	}
+
+}
+
+
+/*final ficha de inscripcion*/
+function validarFormulario()
+{
+	divResultado = document.getElementById('mensaje');
+	codigo=document.form.txtCodigo.value;
+	tpocontrato=document.form.tpocontrato.value;
+	tpoubigeo=document.form.tpoubigeo.value;
+	tpoinmueble=document.form.tpoinmueble.value;
+	txtTitulo=document.form.txtTitulo.value;
+	txtDescripcion=document.form.txtDescripcion.value;
+	txtDireccion=document.form.txtDireccion.value;
+	txtPrecioSoles=document.form.txtPrecioSoles.value;
+	txtPrecioDolares=document.form.txtPrecioDolares.value;
+	cmbAntiguedad=document.form.cmbAntiguedad.value;
+	cmbDormitorios=document.form.cmbDormitorios.value;
+	cmbBanos=document.form.cmbBanos.value;
+	cmbCocheras=document.form.cmbCocheras.value;
+	cmbAreaTotal=document.form.cmbAreaTotal.value;
+	cmbAreaConstruida=document.form.cmbAreaConstruida.value;
+	chkBalcon=document.form.chkBalcon.value;
+	chkDeposito=document.form.chkDeposito.value;
+	chkAireCondicionado=document.form.chkAireCondicionado.value;
+	chkPatio=document.form.chkPatio.value;
+	chkHabilitado1=document.form.chkHabilitado1.value;
+	
+	txtTelefono=document.form.txtTelefono.value;
+	date=document.form.date.value;
+	//txtAno=document.form.txtAno.value;
+	
+	txtusuariocod=document.form.txtusuariocod.value;
+	txtfechaRegistro=document.form.txtfechaRegistro.value;
+	
+	
+
+	ajax=objetoAjax();
+	ajax.open("POST", "cSec.php",true);
+	ajax.onreadystatechange=function()
+	{
+		if (ajax.readyState==4)
+		 {
+			if (ajax.responseText.length>4) {
+				divResultado.innerHTML = ajax.responseText
+			}
+			else {
+				
+				window.location = "vSecLst.php"
+			}
+
+		}
+	}
+	<!--+"&diplomado="+diplomado-->
+	ajax.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+	ajax.send('tipo='+tipo+'&codigo='+codigo+'&tpocontrato='+tpocontrato+'&tpoubigeo='+tpoubigeo+'&tpoinmueble='+tpoinmueble+'&txtTitulo='+txtTitulo+'&txtDescripcion='+txtDescripcion+'&txtDireccion='+txtDireccion+'&txtPrecioSoles='+txtPrecioSoles+'&txtPrecioDolares='+txtPrecioDolares+'&cmbAntiguedad='+cmbAntiguedad+'&cmbDormitorios='+cmbDormitorios+'&cmbBanos='+cmbBanos+'&cmbCocheras='+cmbCocheras+'&cmbAreaTotal='+cmbAreaTotal+'&cmbAreaConstruida='+cmbAreaConstruida+'&chkBalcon='+chkBalcon+'&chkDeposito='+chkDeposito+'&chkAireCondicionado='+chkAireCondicionado+'&chkPatio='+chkPatio+'&txtTelefono='+txtTelefono+'&date='+date+'&txtusuariocod='+txtusuariocod+'&txtfechaRegistro='+txtfechaRegistro+'&chkHabilitado1='+chkHabilitado1)
+
+}
+</script>
+
+<script language="javascript" type="text/javascript">
+function Cambiar(obj){
+var texo = obj.value;
+obj.value = texo.toUpperCase();
+}
+</script>
+
+<SCRIPT>
+var primerslap=false; 
+var segundoslap=false; 
+function formateafecha(fecha) 
+{ 
+var long = fecha.length; 
+var dia; 
+var mes; 
+var ano; 
+if ((long>=2) && (primerslap==false)) { dia=fecha.substr(0,2); 
+if ((IsNumeric(dia)==true) && (dia<=31) && (dia!="00")) { fecha=fecha.substr(0,2)+"/"+fecha.substr(3,7); primerslap=true; } 
+else { fecha=""; primerslap=false;} 
+} 
+else 
+{ dia=fecha.substr(0,1); 
+if (IsNumeric(dia)==false) 
+{fecha="";} 
+if ((long<=2) && (primerslap=true)) {fecha=fecha.substr(0,1); primerslap=false; } 
+} 
+if ((long>=5) && (segundoslap==false)) 
+{ mes=fecha.substr(3,2); 
+if ((IsNumeric(mes)==true) &&(mes<=12) && (mes!="00")) { fecha=fecha.substr(0,5)+"/"+fecha.substr(6,4); segundoslap=true; } 
+else { fecha=fecha.substr(0,3);; segundoslap=false;} 
+} 
+else { if ((long<=5) && (segundoslap=true)) { fecha=fecha.substr(0,4); segundoslap=false; } } 
+if (long>=7) 
+{ ano=fecha.substr(6,4); 
+if (IsNumeric(ano)==false) { fecha=fecha.substr(0,6); } 
+else { if (long==10){ if ((ano==0) || (ano<1900) || (ano>2100)) { fecha=fecha.substr(0,6); } } } 
+} 
+if (long>=10) 
+{ 
+fecha=fecha.substr(0,10); 
+dia=fecha.substr(0,2); 
+mes=fecha.substr(3,2); 
+ano=fecha.substr(6,4); 
+// Año no viciesto y es febrero y el dia es mayor a 28 
+if ( (ano%4 != 0) && (mes ==02) && (dia > 28) ) { fecha=fecha.substr(0,2)+"/"; } 
+} 
+return (fecha); 
+}
+</SCRIPT>
+<style type="text/css">
+<!--
+.Estilo1 {color: #FFFFFF}
+.Estilo2 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+}
+body,td,th {
+	font-size: 12px;
+}
+-->
+</style>
+	
+
+<div id="mensaje"></div>
+<table width="99%">
+
+
+<form  name="form" action="#" method="POST">
+ <input  type="hidden" name="tipo" value="insertar"/>
+ <input  type="hidden" name="txtfechaRegistro" value="<?php echo $date;?>"/>
+ <input  type="hidden" name="txtusuariocod" value="<?php echo $objUsu->getCodigo();?>"/>
+ <input type="hidden" name="txtCodigo" value="<?php echo $objEntida->getCodigo(); ?>" size="10" maxlength="50" id="txtCodigo" readonly="true" /> 
+   <tr>
+     <td width="98"></td>
+   </tr>
+   <!--
+   
+   <tr>
+     <td  class="label">N&deg; Recibo:</td>
+     <td colspan="4"><input class="form_tfield" type="text" name="txtRecibo" value="" size="14" maxlength="5"  /></td>
+   </tr>
+   -->
+   
+   <tr>
+     <td  class="label">Tpo. Contrato: <span class="Estilo2">*</span> :</td>
+     <td width="646"><span class="Estilo1"></span>
+     
+
+     </td>
+   </tr>
+   <tr>
+     <td  class="label">Ubigeo: <span class="Estilo2">*</span></td>
+     <td>&nbsp;</td>
+   </tr>
+   <tr>
+     <td  class="label">Tpo. Inmueble: <span class="Estilo2">*</span></td>
+     <td>&nbsp;</td>
+   </tr>
+   <tr>
+     <td  class="label">Titulo:</td>
+     <td><input class="form_tfield" type="text" name="txtTitulo" value="" size="53" maxlength="30"  onkeyup="Cambiar(this);"/></td>
+   </tr>
+   <tr>
+     <td  class="label">Descripcion:</td>
+     <td>
+     
+     <textarea class="form_tfield" rows="4" cols="39" id="txtDescripcion"  name="txtDescripcion"><?php echo $objEntida->getDescripcion(); ?></textarea>
+     
+     
+     
+     </td>
+   </tr>
+   <tr>
+     <td  class="label">Direccion:</td>
+     <td><input class="form_tfield" type="text" name="txtDireccion" value="" size="53" maxlength="30"  onkeyup="Cambiar(this);"/></td>
+   </tr>
+   <tr>
+     <td colspan="2"  class="label">&nbsp;</td>
+   </tr>
+   <tr>
+     <td colspan="2"  class="label"><strong>Precio:</strong></td>
+    </tr>
+   <tr>
+     <td  class="label">Precio Soles: </td>
+     <td>
+     <input type="text"  id="txtPrecioSoles" size="6" maxlength="9" class="form_tfieldd"   name="txtPrecioSoles" onfocus="this.value=formatCurrency(this.value);" value=""/>
+     
+     </td>
+   </tr>
+   <tr>
+     <td  class="label">Precio Dolares:</td>
+     <td>
+      <input type="text"  id="txtPrecioDolares" size="6" maxlength="9" class="form_tfieldd"   name="txtPrecioDolares" onBlur="this.value=formatCurrency(this.value);" value="<?php echo $objEntida->getPrecioDolares(); ?>"/></td>
+   </tr>
+   <!--<tr>
+     <td  class="label">Años:</td>
+     <td><input type="text"  id="txtAno" size="6" maxlength="9" class="form_tfieldd"   name="txtAno" value="<?php //echo $objEntida->getNroAno(); ?>" /></td>
+   </tr>-->
+   <tr>
+     <td  class="label">&nbsp;</td>
+     <td>&nbsp;</td>
+   </tr>
+   <tr>
+     <td  class="label">Antiguedad:</td>
+     <td></td>
+   </tr>
+   <tr>
+     <td  class="label">Dormitorios:</td>
+     <td>&nbsp;</td>
+   </tr>
+   <tr>
+     <td  class="label">Baños:</td>
+     <td>&nbsp;</td>
+   </tr>
+   <tr>
+     <td  class="label">Cocheras:</td>
+     <td>&nbsp;</td>
+   </tr>
+   <tr>
+     <td  class="label">Area Total:</td>
+     <td>&nbsp;</td>
+   </tr>
+   <tr>
+     <td  class="label">Area Construida:</td>
+     <td><input class="form_tfield" type="text" name="txtAreaConstruida"  id="cmbAreaConstruida" value="" size="14" maxlength="12"  />
+mts² </td>
+   </tr>
+   <tr>
+     <td  class="label">&nbsp;</td>
+     <td>&nbsp;</td>
+   </tr>
+   <tr>
+     <td colspan="2"  class="label"><table width="200" border="0">
+       <tr>
+         <td>Balcon:</td>
+         <td><input type="checkbox" name="chkBalcon"  value="<?php echo $objEntida->getBalcon(); ?>"	<?php  if($objEntida->getBalcon()==1) echo "checked";?>  onClick="cambiaValor1();" />
+         
+         
+		 </td>
+         <td>Deposito:</td>
+         <td>
+       <input type="checkbox" name="chkDeposito"  value="<?php echo $objEntida->getDeposito(); ?>"	<?php  if($objEntida->getDeposito()==1) echo "checked";?>  onClick="cambiaValor2();" />  
+         </td>
+         <td>AireCondicionado:</td>
+         <td><input type="checkbox" name="chkAireCondicionado"  value="<?php echo $objEntida->getAireCondicionado(); ?>"	<?php  if($objEntida->getAireCondicionado()==1) echo "checked";?>  onClick="cambiaValor3();" />
+         </td>
+         <td>Patio:</td>
+         <td>
+         <input type="checkbox" name="chkPatio"  value="<?php echo $objEntida->getPatio(); ?>"	<?php  if($objEntida->getPatio()==1) echo "checked";?>  onClick="cambiaValor4();" />
+         </td>
+       </tr>
+     </table></td>
+    </tr>
+   <tr>
+     <td  class="label">&nbsp;</td>
+     <td>&nbsp;</td>
+   </tr>
+    <!-- <tr>
+     <td colspan="2"  class="label"><strong>Servicios:</strong></td>
+    </tr>
+ <tr>
+     <td colspan="2"  class="label"><table width="242" border="0">
+       <tr>
+       <?php 
+	   /*$objEntidadsDAO=new ServicioDAO();
+          $objListas=$objEntidadsDAO->obtenerServicio(); 
+          for($i=0;$i<$objListas->getTamanio();$i++){
+			$id=$objListas->getElemento($i)->getCodigo(); */
+			  
+			  ?>
+         <td width="95"><?php //echo $objListas->getElemento($i)->getDescripcion();?>:</td>
+         <td width="137">
+         
+         <input type="checkbox" id="ep_<?php //echo $id ;?>" name="ep_<?php //echo $id ;?>"   value="<?php //echo $id;?>" <?php //if($f_Ast==1) echo 'checked';?> onClick="cambiarEstado(this)"> 
+         
+         
+         
+         
+         </td>
+         
+         <?php
+		  //}
+		 ?>
+       </tr>
+     </table></td>
+    </tr>-->
+   <tr>
+     <td  class="label">Telefono:</td>
+     <td><input class="form_tfield" type="text" name="txtTelefono" value="" size="29" maxlength="12"  /></td>
+   </tr>
+   <tr>
+     <td  class="label">Fecha Alta:</td>
+     <td>
+        
+        <div><input type="text" name="date" class="tcal" value="" /></div>
+        
+        </a>
+      
+      
+      </td>
+   </tr>
+   <tr>
+     <td  class="label">&nbsp;</td>
+     <td>&nbsp;</td>
+   </tr>
+  <!--<tr>
+     <td  class="label">Cargar Imagenes:</td>
+     <td>
+<input type="hidden" size="25" name="mensaje" id="mitexto" value="<?php //echo $valor;?>"   />
+<input type="file" name="fileInput" id="fileInput"  />
+
+<div id="fotosWrapper">Cargar Imagen:&nbsp;</div></td>
+   </tr>-->
+   <tr>
+     <td  class="label">Habilitado :</td>
+     <td>
+      <input type="checkbox" name="chkHabilitado1"  value="<?php echo $objEntida->getEstadoRegistro(); ?>"	<?php  if($objEntida->getEstadoRegistro()==1) echo "checked";?>  onClick="cambiaValor5();" />
+     
+     
+     </td>
+   </tr>
+   <tr>
+     <td class="label" >&nbsp;</td>
+     <td><strong>Datos con asteriscos s&oacute;n obligatorios favor de completar:</strong></td>
+   </tr>
+   <tr>
+    <td class="label" >&nbsp;</td>
+    <td><input class="form_submitb" type="button" value="Aceptar" name="btnAceptar" onClick="validarFormulario(this);"" />      &nbsp;&nbsp;
+	  <input class="form_cancelar" type="button" value="Cancelar" name="btnAceptar" onClick="javascript:history.back();" /></td>
+    </tr>
+</form>
+</table>
+

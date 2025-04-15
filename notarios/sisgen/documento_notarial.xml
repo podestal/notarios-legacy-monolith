@@ -1,0 +1,116 @@
+<DocumentosNotariales xmlns='http://ancert.notariado.org/SISGEN/XML' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://ancert.notariado.org/SISGEN/XML C:\SISGEN\SISGEN_V2_RO\documentos_notariales.xsd'>
+	<GeneradorDatos>
+		<NomProveedor>CNL</NomProveedor>
+		<NomAplicacion>SISNOT</NomAplicacion>
+		<VersionAplicacion>2.7</VersionAplicacion>
+	</GeneradorDatos>
+	<DocumentoNotarial>
+	<Documento>
+		<CodNotario>19010413</CodNotario>
+		<CodNotaria>10024231572</CodNotaria>
+		<NumKardex>KAR7470-2023</NumKardex>
+		<FechaIngreso>2023-11-29</FechaIngreso>
+		<TipoInstrumento>E</TipoInstrumento>
+		<NumDocumento>7120</NumDocumento>
+		<FechaInstrumento>2023-11-29</FechaInstrumento>
+		<NumFolios>1</NumFolios>
+		<FechaConclusion>2023-11-29</FechaConclusion>
+	</Documento>
+	<Maestros>
+		<PersonasNaturales>
+			<PersonaNatural id='0000075455'>
+			<DocsIdentificativos>
+				<DocIdentificativo>
+					<TipoDocIdentidad>01</TipoDocIdentidad>
+					<NumDocIdentificativo>02439080</NumDocIdentificativo>
+				</DocIdentificativo>
+			</DocsIdentificativos>
+				<Nombre>JAVIER ANTONIO</Nombre>
+				<PrimerApellido>ARIAS</PrimerApellido>
+				<SegundoApellido>PAREDES</SegundoApellido>
+				<Genero>V</Genero>
+				<EstadoCivil>1</EstadoCivil>
+				<PaisNacionalidad>PE</PaisNacionalidad>
+				<FechaNacimiento>1974-02-12</FechaNacimiento>
+				<Profesion>001</Profesion>
+				<Cargo>999</Cargo>
+				<OtroCargo>OTROS</OtroCargo>
+				<Direccion>
+					<ResidePeru>1</ResidePeru>
+					<PaisResidencia>PE</PaisResidencia>
+				<DireccionNacional>
+					<CodDepartamento>04</CodDepartamento>
+					<CodProvincia>01</CodProvincia>
+					<CodDistrito>01</CodDistrito>
+					<RestoDireccion>CALLE MANUEL MUÑOZ NAJAR NO. 128 </RestoDireccion>
+				</DireccionNacional>
+				</Direccion>
+			</PersonaNatural>
+		</PersonasNaturales>
+		<PersonasJuridicas>
+			<PersonaJuridica id='0000076051'>
+			<DocsIdentificativos>
+				<DocIdentificativo>
+					<TipoDocIdentidad>10</TipoDocIdentidad>
+				</DocIdentificativo>
+			</DocsIdentificativos>
+				<RegistroFacultades>
+					<SedeRegistral>09</SedeRegistral>
+				</RegistroFacultades>
+				<RazonSocial>CENTRO DE CONCILIACIÓN &amp; ARBITRAJE SOLIDARIDAD</RazonSocial>
+				<SectorEconomico>O</SectorEconomico>
+				<OtraActividad>1.	PRESTAR EL SERVICIO DE LA CONCILIACIÓN EXTRAJUD</OtraActividad>
+				<Direccion>
+					<PaisResidencia>PE</PaisResidencia>
+				<DireccionNacional>
+					<CodDepartamento>21</CodDepartamento>
+					<CodProvincia>11</CodProvincia>
+					<CodDistrito>01</CodDistrito>
+					<RestoDireccion>JR. BOLIVAR NO. 339</RestoDireccion>
+				</DireccionNacional>
+				</Direccion>
+			</PersonaJuridica>
+		</PersonasJuridicas>
+	</Maestros>
+	<Operaciones>
+		<Operacion id='975'>
+				<CodActoJuridico>0912</CodActoJuridico>
+			<Operantes>
+				<Objetos>
+				</Objetos>
+					<Intervenciones>
+						<Intervencion>
+							<TipoIntervencion>1</TipoIntervencion>
+							<DescripcionIntervencion>060</DescripcionIntervencion>
+							<RolRepresentante>O</RolRepresentante>
+							<Sujetos>
+								<Sujeto>
+									<IdMaestro>0000075455</IdMaestro>
+									<Derecho>
+										<PorcentajeDerecho>50.00</PorcentajeDerecho>
+									</Derecho>
+									<Representantes>
+									</Representantes>
+									<FechaFirma>2023-11-29</FechaFirma>
+								</Sujeto>
+								<Sujeto>
+									<IdMaestro>0000076051</IdMaestro>
+									<Derecho>
+										<PorcentajeDerecho>50.00</PorcentajeDerecho>
+									</Derecho>
+									<Representantes>
+									</Representantes>
+								</Sujeto>
+							</Sujetos>
+						</Intervencion>
+					</Intervenciones>
+					<NoIntervinientes>
+					</NoIntervinientes>
+			</Operantes>
+					<NombreContrato>SUBSANACION DE ASOCIACION</NombreContrato>
+					<FechaMinuta>2023-11-29</FechaMinuta>
+		</Operacion>
+	</Operaciones>
+	</DocumentoNotarial>
+
+</DocumentosNotariales>

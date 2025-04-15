@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(cargakardex(0));
+function cargakardex(limite)
+{
+	var url="cargakardex.php";
+	$.post(url,{limite: limite},function (responseText){
+		    $("#kardexs").html(responseText);
+	  });
+}
+</script>
+</head>
+
+<body>
+<section id="kardexs">
+</section>
+</body>
+</html>

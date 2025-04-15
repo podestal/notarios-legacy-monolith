@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="editacto.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130238213193331977" remote="130238213190000000" Dst="-1" />
+<file name="editcondi.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130238242898551019" remote="130238242890000000" Dst="-1" />
+<file name="editImpedido.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130234978474132618" remote="130234978470000000" Dst="-1" />
+<file name="edittipkar.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130036251200000000" remote="130036251200000000" Dst="-1" />
+<file name="elimCondicion.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130040535360000000" remote="130040535360000000" Dst="-1" />
+<file name="elimtipacto.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130038909480000000" remote="130038909480000000" Dst="-1" />
+<file name="elimtipkarmon.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130038847800000000" remote="130038847800000000" Dst="-1" />
+<file name="guardaActo.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130238204142274286" remote="130238204140000000" Dst="-1" />
+<file name="guardaCondicion.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226351757059399" remote="130226351750000000" Dst="-1" />
+<file name="guardatipkar.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130038836520000000" remote="130038836520000000" Dst="-1" />
+<file name="tipokarmod.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130035995680000000" remote="130035995680000000" Dst="-1" />
+<file name="editsello.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130071589600000000" remote="130071589600000000" Dst="-1" />
+<file name="elimsello.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130058611450000000" remote="130058611450000000" Dst="-1" />
+<file name="savesello.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130058599840000000" remote="130058599840000000" Dst="-1" />
+<file name="savePoderConte.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130071622600000000" remote="130071622600000000" Dst="-1" />
+<file name="elimPoderConte.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130071603560000000" remote="130071603560000000" Dst="-1" />
+<file name="editPoderConte.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130071602470000000" remote="130071602470000000" Dst="-1" />
+<file name="buscaSERVICIO.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130234887204712306" remote="130234887200000000" Dst="-1" />
+<file name="editServicio.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130183784554227556" remote="130183784550000000" Dst="-1" />
+<file name="guardaBloqueKar.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130137131680266692" remote="130137131680000000" Dst="-1" />
+<file name="guardarpermisos.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130187440601661885" remote="130187440600000000" Dst="-1" />
+<file name="guardarServicio.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130235603938345645" remote="130235603930000000" Dst="-1" />
+<file name="ProcesaPermi.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130181273146306646" remote="130181273140000000" Dst="-1" />
+<file name="elimServicio.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130235615767232219" remote="130235615760000000" Dst="-1" />
+<file name="evalServicio.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130235642848551182" remote="130235642840000000" Dst="-1" />
+<file name="buscaSERVICIO.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594420000000" remote="130630594420000000" Dst="0" />
+<file name="editacto.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594400000000" remote="130630594400000000" Dst="0" />
+<file name="editcondi.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594400000000" remote="130630594400000000" Dst="0" />
+<file name="editImpedido.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594420000000" remote="130630594420000000" Dst="0" />
+<file name="editPoderConte.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594420000000" remote="130630594420000000" Dst="0" />
+<file name="editprotesto.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594400000000" remote="130630594400000000" Dst="0" />
+<file name="editsello.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594400000000" remote="130630594400000000" Dst="0" />
+<file name="editServicio.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594400000000" remote="130630594400000000" Dst="0" />
+<file name="edittipkar.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594400000000" remote="130630594400000000" Dst="0" />
+<file name="elimCondicion.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594400000000" remote="130630594400000000" Dst="0" />
+<file name="elimPoderConte.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594400000000" remote="130630594400000000" Dst="0" />
+<file name="elimprotesto.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594380000000" remote="130630594380000000" Dst="0" />
+<file name="elimsello.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594380000000" remote="130630594380000000" Dst="0" />
+<file name="elimServicio.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594400000000" remote="130630594400000000" Dst="0" />
+<file name="elimtipacto.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594380000000" remote="130630594380000000" Dst="0" />
+<file name="elimtipkarmon.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594380000000" remote="130630594380000000" Dst="0" />
+<file name="evalServicio.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594380000000" remote="130630594380000000" Dst="0" />
+<file name="guardaActo.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594380000000" remote="130630594380000000" Dst="0" />
+<file name="guardaBloqueCambioCarac.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594380000000" remote="130630594380000000" Dst="0" />
+<file name="guardaBloqueCarta.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257320000000" remote="130284257320000000" Dst="0" />
+<file name="guardaBloqueCertDomi.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594380000000" remote="130630594380000000" Dst="0" />
+<file name="guardaBloqueKar.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130779353520000000" remote="130779353520000000" Dst="0" />
+<file name="guardaBloqueLibro.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="131000456050784663" remote="131000456050000000" Dst="0" />
+<file name="guardaBloquePCapaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594360000000" remote="130630594360000000" Dst="0" />
+<file name="guardaBloquePoderes.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594360000000" remote="130630594360000000" Dst="0" />
+<file name="guardaBloqueViaje.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594360000000" remote="130630594360000000" Dst="0" />
+<file name="guardaCondicion.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594360000000" remote="130630594360000000" Dst="0" />
+<file name="guardarpermisos.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594360000000" remote="130630594360000000" Dst="0" />
+<file name="guardarServicio.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594360000000" remote="130630594360000000" Dst="0" />
+<file name="guardatipkar.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594360000000" remote="130630594360000000" Dst="0" />
+<file name="ProcesaPermi.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594420000000" remote="130630594420000000" Dst="0" />
+<file name="savePoderConte.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594360000000" remote="130630594360000000" Dst="0" />
+<file name="savesello.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594360000000" remote="130630594360000000" Dst="0" />
+<file name="tipokarmod.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630594340000000" remote="130630594340000000" Dst="0" />
+</dwsync>

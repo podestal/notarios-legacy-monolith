@@ -1,0 +1,152 @@
+<DocumentosNotariales xmlns='http://ancert.notariado.org/SISGEN/XML' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://ancert.notariado.org/SISGEN/XML C:\SISGEN\SISGEN_V2_RO\documentos_notariales.xsd'>
+	<GeneradorDatos>
+		<NomProveedor>CNL</NomProveedor>
+		<NomAplicacion>SISNOT</NomAplicacion>
+		<VersionAplicacion>2.7</VersionAplicacion>
+	</GeneradorDatos>
+	<DocumentoNotarial>
+	<Documento>
+		<CodNotario>19010413</CodNotario>
+		<CodNotaria>10024231572</CodNotaria>
+		<NumKardex>KAR389-2022</NumKardex>
+		<FechaIngreso>2022-01-19</FechaIngreso>
+		<TipoInstrumento>E</TipoInstrumento>
+		<NumDocumento>389</NumDocumento>
+		<FechaInstrumento>2022-01-21</FechaInstrumento>
+		<NumFolios>4</NumFolios>
+		<FechaConclusion>2022-01-21</FechaConclusion>
+	</Documento>
+	<Maestros>
+		<PersonasNaturales>
+			<PersonaNatural id='0000015187'>
+			<DocsIdentificativos>
+				<DocIdentificativo>
+					<TipoDocIdentidad>01</TipoDocIdentidad>
+					<NumDocIdentificativo>41781419</NumDocIdentificativo>
+				</DocIdentificativo>
+			</DocsIdentificativos>
+				<Nombre>JAIME ALCIDES</Nombre>
+				<PrimerApellido>YARESI</PrimerApellido>
+				<SegundoApellido>YARESI</SegundoApellido>
+				<Genero>V</Genero>
+				<EstadoCivil>1</EstadoCivil>
+				<PaisNacionalidad>PE</PaisNacionalidad>
+				<FechaNacimiento>1981-02-16</FechaNacimiento>
+				<Profesion>036</Profesion>
+				<Cargo>999</Cargo>
+				<OtroCargo>OTROS</OtroCargo>
+				<Direccion>
+					<ResidePeru>1</ResidePeru>
+					<PaisResidencia>PE</PaisResidencia>
+				<DireccionNacional>
+					<CodDepartamento>21</CodDepartamento>
+					<CodProvincia>03</CodProvincia>
+					<CodDistrito>07</CodDistrito>
+					<RestoDireccion>COMUNIDAD CARABAYA</RestoDireccion>
+				</DireccionNacional>
+				</Direccion>
+			</PersonaNatural>
+		</PersonasNaturales>
+		<PersonasJuridicas>
+			<PersonaJuridica id='0000029743'>
+			<DocsIdentificativos>
+				<DocIdentificativo>
+					<TipoDocIdentidad>10</TipoDocIdentidad>
+				</DocIdentificativo>
+			</DocsIdentificativos>
+				<RegistroFacultades>
+					<SedeRegistral>01</SedeRegistral>
+				</RegistroFacultades>
+				<RazonSocial>JAY &amp; CAPITAL E.I.R.L.</RazonSocial>
+				<SectorEconomico>G</SectorEconomico>
+				<OtraActividad>COMERCIALIZACION DE ARTICULOS Y VE</OtraActividad>
+				<Direccion>
+					<PaisResidencia>PE</PaisResidencia>
+				<DireccionNacional>
+					<CodDepartamento>21</CodDepartamento>
+					<CodProvincia>11</CodProvincia>
+					<CodDistrito>01</CodDistrito>
+					<RestoDireccion>JULIACA</RestoDireccion>
+				</DireccionNacional>
+				</Direccion>
+			</PersonaJuridica>
+		</PersonasJuridicas>
+		<OtrosObjetos>
+			<OtroObjeto  id='8938'>
+				<Descripcion>aportes dinerarios</Descripcion>
+				<ClaseObjeto>7</ClaseObjeto>
+			</OtroObjeto>
+			<OtroObjeto  id='8939'>
+				<Descripcion>aportes de articulos y materiales de construccion</Descripcion>
+				<ClaseObjeto>7</ClaseObjeto>
+			</OtroObjeto>
+		</OtrosObjetos>
+	</Maestros>
+	<Operaciones>
+		<Operacion id='033'>
+				<CodActoJuridico>0208</CodActoJuridico>
+			<Operantes>
+				<Objetos>
+					<Objeto>
+						<IdMaestro>8938</IdMaestro>
+					</Objeto>
+					<Objeto>
+						<IdMaestro>8939</IdMaestro>
+					</Objeto>
+				</Objetos>
+					<Intervenciones>
+						<Intervencion>
+							<TipoIntervencion>1</TipoIntervencion>
+							<DescripcionIntervencion>086</DescripcionIntervencion>
+							<RolRepresentante>O</RolRepresentante>
+							<Sujetos>
+								<Sujeto>
+									<IdMaestro>0000015187</IdMaestro>
+									<OrigenFondos>
+										<OrigenFondo>
+											<Origen>SON PROVENIENTES DE INGRESOS POR TRABAJO</Origen>
+											<CuantiaOrigen>100000.00</CuantiaOrigen>
+											<TipoMonedaPago>01</TipoMonedaPago>
+										</OrigenFondo>
+									</OrigenFondos>
+									<Derecho>
+										<PorcentajeDerecho>100.00</PorcentajeDerecho>
+									</Derecho>
+									<Representantes>
+									</Representantes>
+									<FechaFirma>2022-01-21</FechaFirma>
+								</Sujeto>
+							</Sujetos>
+						</Intervencion>
+						<Intervencion>
+							<TipoIntervencion>2</TipoIntervencion>
+							<DescripcionIntervencion>099</DescripcionIntervencion>
+							<RolRepresentante>B</RolRepresentante>
+							<Sujetos>
+								<Sujeto>
+									<IdMaestro>0000029743</IdMaestro>
+									<Derecho>
+										<PorcentajeDerecho>100.00</PorcentajeDerecho>
+									</Derecho>
+									<Representantes>
+									</Representantes>
+								</Sujeto>
+							</Sujetos>
+						</Intervencion>
+					</Intervenciones>
+					<NoIntervinientes>
+					</NoIntervinientes>
+			</Operantes>
+				<CuantiaOperacion>
+					<Cuantia>100000.00</Cuantia>
+					<TipoMoneda>01</TipoMoneda>
+				</CuantiaOperacion>
+				<MediosPagos>
+				</MediosPagos>
+					<NombreContrato>CONSTITUCION DE EIRL</NombreContrato>
+					<FechaMinuta>2022-01-19</FechaMinuta>
+		</Operacion>
+	</Operaciones>
+	</DocumentoNotarial>
+
+</DocumentosNotariales>

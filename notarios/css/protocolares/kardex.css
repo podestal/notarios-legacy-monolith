@@ -1,0 +1,403 @@
+
+
+.submenutitu {
+	font-family: Calibri;
+	font-size: 18px;
+	font-style: italic;
+	color:#FF9900;
+}
+.titubusca {
+	font-family: Calibri;
+	font-size: 13px;
+	color: #333333;
+	font-style: italic;
+}
+
+
+
+
+#gridPatrimonial{
+	width:100px;
+	height:200px;}
+
+.camposss {font-family: Calibri; font-style: italic; font-size: 14px; color: #333333; }
+
+
+ul.tabs {margin: 0;  padding: 0;  float: left;  list-style: none;  height: auto;  width: 760px; border-left:2px solid #264965; border-bottom:2px solid #777; }
+ul.tabs li { background:#264965; font-family:Calibri; color:#FF9900; float: left;  margin-left: 0px;  padding: 0; border: 2px solid #777; overflow: hidden; position: relative; border-left:0px; margin-bottom:-2px;}
+ul.tabs li a {text-decoration: none; font-family:Calibri; color:#FF9900; background:#264965; display: block; font-size: 14px; font-weight:bold; padding: 4px 20px; }
+ul.tabs li a:hover {background:#FF9900; font-family:Calibri; color:#264965}
+ul.tabs li.active, html ul.tabs li.active a:hover  {background:#FF9900; border-bottom: 2px solid #eee; margin-bottom:-2px;}
+ 
+.Contenedor{border: 2px solid #777; border-top: none; overflow: hidden; clear: both; float: left; width: 760px; background: #ffff;
+-webkit-border-bottom-right-radius: 8px;
+-webkit-border-bottom-left-radius: 8px;
+-moz-border-radius-bottomright: 8px;
+-moz-border-radius-bottomleft: 8px;
+border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px;
+}
+.Contenido {padding: 15px; font-size: 12px;}
+
+
+
+
+
+.slectcontratantes {
+	font-family: Calibri;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+div.representante {
+	background:#333333;
+	border: 1px solid #333333;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 7px #000000;
+	-webkit-box-shadow: 0px 0px 7px #000000;
+	box-shadow: 0px 0px 7px #000000;
+	width:638px;
+	height:220px;
+	position:absolute;
+	left: 549px;
+	top: 180px;
+	margin-top: 15px;
+	margin-left: -450px;
+	opacity: 0.95;
+	filter: "alpha(opacity=50)"; /* expected to work in IE 8 */
+	filter: alpha(opacity=50);   /* IE 4-7 */
+	zoom: 1;
+}
+
+div.allcontrata {width:600px; height:150px; overflow:auto;}
+div.newproto
+{ 
+background-color: #ffffff;
+border: 4px solid #264965;  
+-moz-border-radius: 13px;
+-webkit-border-radius: 13px;
+border-radius: 13px;
+-moz-box-shadow: 0px 0px 5px #000000;
+-webkit-box-shadow: 0px 0px 5px #000000;
+box-shadow: 0px 0px 5px #000000;
+width:820px; height:750px;
+}
+
+
+div.buscar{ width:620px; height:420px;
+ background-color: #264965;
+border: 4px solid #264965;
+-moz-border-radius: 13px;
+-webkit-border-radius: 13px;
+border-radius: 13px;
+-moz-box-shadow: 0px 0px 5px #000000;
+-webkit-box-shadow: 0px 0px 5px #000000;
+box-shadow: 0px 0px 5px #000000;  }
+.textoasigna {
+	font-family: Calibri;
+	font-size: 11px;
+	font-style: italic;
+}
+div.mante{ width:310px; height:420px;
+background-color: #264965;
+border: 4px solid #264965;
+-moz-border-radius: 13px;
+-webkit-border-radius: 13px;
+border-radius: 13px;
+-moz-box-shadow: 0px 0px 5px #000000;
+-webkit-box-shadow: 0px 0px 5px #000000;
+box-shadow: 0px 0px 5px #000000;  }
+
+div.contratantes{ width:728px; height:250px; overflow:auto;  }
+
+.editcampp {font-family: Calibri; font-style: italic; font-size: 14px; color: #FFFFFF; }
+
+.titulomenuacto { font-family:Calibri; color:#FFFFFF; font-size:14px; font-style:italic;
+}
+
+div.tipoacto{ width:740px; height:150px; overflow:auto;}
+div.newproto1 {  background-color: #ffffff;
+border: 4px solid #264965;  
+
+-moz-border-radius: 13px;
+-webkit-border-radius: 13px;
+border-radius: 13px;
+-moz-box-shadow: 0px 0px 5px #000000;
+-webkit-box-shadow: 0px 0px 5px #000000;
+box-shadow: 0px 0px 5px #000000;
+width:800px; height:600px;
+}
+.kardex{ font-family:Calibri; font-size:24px; font-style:italic; color:#003366}
+div.menucondicion{
+	background:#333333;
+	border: 1px solid #333333;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 7px #000000;
+	-webkit-box-shadow: 0px 0px 7px #000000;
+	box-shadow: 0px 0px 7px #000000;
+	width:750px;
+	height:220px;
+	position:absolute;
+	left: 460px;
+	top: 95px;
+	margin-top: 15px;
+	margin-left: -450px;
+	opacity: 0.95;
+	filter: "alpha(opacity=50)"; /* expected to work in IE 8 */
+	filter: alpha(opacity=50);   /* IE 4-7 */
+	zoom: 1;
+}
+
+div.clienedit {
+	background:#333333;
+	border: 1px solid #333333;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 7px #000000;
+	-webkit-box-shadow: 0px 0px 7px #000000;
+	box-shadow: 0px 0px 7px #000000;
+	width:760px;
+	height:299px;
+	position:absolute;
+	left: 494px;
+	top: 274px;
+	margin-top: 15px;
+	margin-left: -450px;
+	opacity: 0.95;
+	filter: "alpha(opacity=70)"; /* expected to work in IE 8 */
+	filter: alpha(opacity=70);   /* IE 4-7 */
+	zoom: 1;
+}
+div.uifpdtparticip{
+	background:#333333;
+	border: 1px solid #333333;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 7px #000000;
+	-webkit-box-shadow: 0px 0px 7px #000000;
+	box-shadow: 0px 0px 7px #000000;
+	width:760px;
+	height:299px;
+	position:absolute;
+	left: 491px;
+	top: 333px;
+	margin-top: 15px;
+	margin-left: -450px;
+	opacity: 0.95;
+	filter: "alpha(opacity=70)"; /* expected to work in IE 8 */
+	filter: alpha(opacity=70);   /* IE 4-7 */
+	zoom: 1;
+}
+
+div.menuactos {
+	background:#333333;
+	border: 1px solid #333333;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 7px #000000;
+	-webkit-box-shadow: 0px 0px 7px #000000;
+	box-shadow: 0px 0px 7px #000000;
+	width:760px;
+	height:220px;
+	position:absolute;
+	left: 490px;
+	top: 179px;
+	margin-top: 15px;
+	margin-left: -450px;
+	opacity: 0.95;
+	filter: "alpha(opacity=50)"; /* expected to work in IE 8 */
+	filter: alpha(opacity=50);   /* IE 4-7 */
+	zoom: 1;
+}
+div.menuactos2 {
+	background:#333333;
+	border: 1px solid #333333;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 7px #000000;
+	-webkit-box-shadow: 0px 0px 7px #000000;
+	box-shadow: 0px 0px 7px #000000;
+	width:759px;
+	height:220px;
+	position:absolute;
+	left: 482px;
+	top: 172px;
+	margin-top: 15px;
+	margin-left: -450px;
+	opacity: 0.95;
+	filter: "alpha(opacity=50)"; /* expected to work in IE 8 */
+	filter: alpha(opacity=50);   /* IE 4-7 */
+	zoom: 1;
+}
+div.asigna{ height:220px; width:1095px; overflow:auto;
+
+}
+div.tipoacto2 {width:740px; height:150px; overflow:auto;}
+div.clienbus {
+	background:#333333;
+	border: 1px solid #333333;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 7px #000000;
+	-webkit-box-shadow: 0px 0px 7px #000000;
+	box-shadow: 0px 0px 7px #000000;
+	width:760px;
+	height:299px;
+	position:absolute;
+	left: 493px;
+	top: 270px;
+	margin-top: 15px;
+	margin-left: -450px;
+	opacity: 0.95;
+	filter: "alpha(opacity=70)"; /* expected to work in IE 8 */
+	filter: alpha(opacity=70);   /* IE 4-7 */
+	zoom: 1;
+}
+.Estilo15 {font-size: 12px; font-weight: bold; font-family: Calibri;}
+.Estilo18 {font-family: Calibri; font-weight: bold; }
+.Estilo21 {font-family: Calibri; color: #003399; }
+.Estilo23 {font-family: Calibri; color: #003399; font-weight: bold; }
+.Estilo31 {font-family: Calibri; font-size: 13px; font-style: italic; }
+.style1 {
+	font-size: 14px;
+	font-weight: bold;
+}
+.style2 {
+	font-family: Calibri;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+}
+.Estilo40 {font-family: Calibri; color: #666666; }
+.Estilo42 {font-family: Calibri; font-style: italic; font-size: 14px; color: #333333; font-weight: bold; }
+.btnpatrimonial {color: #FFFFFF; font-family: Calibri; font-style: italic; font-weight: bold; }
+.titupatrimo {font-size: 12; font-style: italic; font-family: Calibri;}
+.Estilo43 {color: #333333}
+.Contenedor1 {border: 2px solid #777; border-top: none; overflow: hidden; clear: both; float: left; width: 760px; background: #ffff;
+-webkit-border-bottom-right-radius: 8px;
+-webkit-border-bottom-left-radius: 8px;
+-moz-border-radius-bottomright: 8px;
+-moz-border-radius-bottomleft: 8px;
+border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px;
+}
+div.clienbus1 {
+	background: #333333;
+	border: 1px solid #333333;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 7px #000000;
+	-webkit-box-shadow: 0px 0px 7px #000000;
+	box-shadow: 0px 0px 7px #000000;
+	width: 760px;
+	height: 380px;
+	position: absolute;
+	left: 493px;
+	top: 270px;
+	margin-top: 15px;
+	margin-left: -450px;
+	opacity: 0.95;
+	filter: "alpha(opacity=70)"; /* expected to work in IE 8 */
+	filter: alpha(opacity=70);   /* IE 4-7 */
+	zoom: 1;
+}
+div.clienedit1 {	background:#333333;
+	border: 1px solid #333333;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 7px #000000;
+	-webkit-box-shadow: 0px 0px 7px #000000;
+	box-shadow: 0px 0px 7px #000000;
+	width:760px;
+	height:299px;
+	position:absolute;
+	left: 494px;
+	top: 274px;
+	margin-top: 15px;
+	margin-left: -450px;
+	opacity: 0.95;
+	filter: "alpha(opacity=70)"; /* expected to work in IE 8 */
+	filter: alpha(opacity=70);   /* IE 4-7 */
+	zoom: 1;
+}
+div.menuactos1 {
+	background:#333333;
+	border: 1px solid #333333;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 7px #000000;
+	-webkit-box-shadow: 0px 0px 7px #000000;
+	box-shadow: 0px 0px 7px #000000;
+	width:760px;
+	height:220px;
+	position:absolute;
+	left: 489px;
+	top: 182px;
+	margin-top: 15px;
+	margin-left: -450px;
+	opacity: 0.95;
+	filter: "alpha(opacity=50)"; /* expected to work in IE 8 */
+	filter: alpha(opacity=50);   /* IE 4-7 */
+	zoom: 1;
+}
+div.menuactos21 {	background:#333333;
+	border: 1px solid #333333;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 7px #000000;
+	-webkit-box-shadow: 0px 0px 7px #000000;
+	box-shadow: 0px 0px 7px #000000;
+	width:759px;
+	height:220px;
+	position:absolute;
+	left: 482px;
+	top: 172px;
+	margin-top: 15px;
+	margin-left: -450px;
+	opacity: 0.95;
+	filter: "alpha(opacity=50)"; /* expected to work in IE 8 */
+	filter: alpha(opacity=50);   /* IE 4-7 */
+	zoom: 1;
+}
+div.uifpdtparticip1 {
+	background:#333333;
+	border: 1px solid #333333;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 7px #000000;
+	-webkit-box-shadow: 0px 0px 7px #000000;
+	box-shadow: 0px 0px 7px #000000;
+	width:818px;
+	height:334px;
+	position:absolute;
+	left: 467px;
+	top: 311px;
+	margin-top: 15px;
+	margin-left: -450px;
+	opacity: 0.95;
+	filter: "alpha(opacity=70)"; /* expected to work in IE 8 */
+	filter: alpha(opacity=70);   /* IE 4-7 */
+	zoom: 1;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,158 @@
+[1mdiff --git a/models/get_predios.php b/models/get_predios.php[m
+[1mindex e85e7bf..f2b3d2f 100644[m
+[1m--- a/models/get_predios.php[m
+[1m+++ b/models/get_predios.php[m
+[36m@@ -16,94 +16,104 @@[m
+ [m
+     switch (true) {[m
+ [m
+[31m-        //VIA[m
+[32m+[m[32m        //1 VIA[m
+         case ($tipoZona==0 && $zona=='' && $denominacion=='' && $tipoVia==0 && $nombreVia!='' && $numero=='' &&  $lote=='' &&  $manzana==''):[m
+             $queryAdd = "WHERE nombre_via LIKE '%".$nombreVia."%'";[m
+             break;[m
+ [m
+[31m-        //TIPO ZONA Y NOMBRE VIA[m
+[32m+[m[32m        //1 ZONA[m
+[32m+[m[32m        case ($tipoZona==0 && $zona!='' && $denominacion=='' && $tipoVia==0 && $nombreVia=='' && $numero=='' &&  $lote=='' &&  $manzana==''):[m
+[32m+[m[32m            $queryAdd = "WHERE zona LIKE '%".$zona."%'";[m
+[32m+[m[32m            break;[m
+[32m+[m
+[32m+[m[32m        //1 DENOMINACION[m
+[32m+[m[32m        case ($tipoZona==0 && $zona=='' && $denominacion!='' && $tipoVia==0 && $nombreVia=='' && $numero=='' &&  $lote=='' &&  $manzana==''):[m
+[32m+[m[32m            $queryAdd = "WHERE denominacion LIKE '%".$denominacion."%'";[m
+[32m+[m[32m            break;[m
+[32m+[m
+[32m+[m[32m        //2 TIPO ZONA && NOMBRE VIA[m
+         case ($tipoZona==0 && $zona!='' && $denominacion=='' && $tipoVia==0 && $nombreVia!='' && $numero=='' &&  $lote=='' &&  $manzana==''):[m
+             $queryAdd = "WHERE zona LIKE '%".$zona."%' and nombre_via LIKE '%".$nombreVia."%'";[m
+             break;[m
+ [m
+[31m-        //TIPO ZONA, DENOMINACION[m
+[32m+[m[32m        //2 TIPO ZONA && DENOMINACION[m
+         case ($tipoZona==0 && $zona!='' && $denominacion!='' && $tipoVia!=0 && $nombreVia!='' && $numero!='' &&  $lote!='' &&  $manzana!=''):[m
+             $queryAdd = "WHERE zona LIKE '%".$zona."%' and denominacion LIKE '%".$denominacion."%' and tipo_via='".$tipoVia."' and nombre_via LIKE '%".$nombreVia."%' and numero='".$numero."' and lote='".$lote."' and manzana='".$manzana."'";[m
+             break;[m
+ [m
+         [m
+[31m-        //DENOMINACION, NOMBRE VIA[m
+[32m+[m[32m        //2 DENOMINACION && NOMBRE VIA[m
+         case ($tipoZona==0 && $zona=='' && $denominacion!='' && $tipoVia==0 && $nombreVia!='' && $numero=='' &&  $lote=='' &&  $manzana==''):[m
+             $queryAdd = "WHERE denominacion LIKE '%".$denominacion."%' and nombre_via LIKE '%".$nombreVia."%'";[m
+             break;[m
+ [m
+[31m-        //NUMERO, NOMBRE VIA[m
+[32m+[m[32m        //2 NUMERO && NOMBRE VIA[m
+         case ($tipoZona==0 && $zona=='' && $denominacion=='' && $tipoVia==0 && $nombreVia!='' && $numero!='' &&  $lote=='' &&  $manzana==''):[m
+             $queryAdd = "WHERE numero='".$numero."' and nombre_via LIKE '%".$nombreVia."%'";[m
+             break;[m
+ [m
+[31m-        //MAZANA, LOTE[m
+[32m+[m[32m        //2 MAZANA && LOTE[m
+         case ($tipoZona==0 && $zona=='' && $denominacion=='' && $tipoVia==0 && $nombreVia=='' && $numero=='' &&  $lote!='' &&  $manzana!=''):[m
+             $queryAdd = "WHERE manzana='".$manzana."' and lote='".$lote."'";[m
+             break;[m
+         [m
+ [m
+[31m-        //DENOMINACION, TIPO DE ZONA, NOMBRE VIA[m
+[32m+[m[32m        //3 DENOMINACION && TIPO DE ZONA && NOMBRE VIA[m
+         case ($tipoZona==0 && $zona!='' && $denominacion!='' && $tipoVia==0 && $nombreVia!='' && $numero=='' &&  $lote=='' &&  $manzana==''):[m
+             $queryAdd = "WHERE denominacion LIKE '%".$denominacion."%' and zona LIKE '%".$zona."%' and nombre_via LIKE '%".$nombreVia."%'";[m
+             break;[m
+[32m+[m[41m        [m
+[32m+[m[32m        //3 NOMBRE VIA && LOTE && MANZANA[m
+[32m+[m[32m        case ($tipoZona==0 && $zona=='' && $denominacion=='' && $tipoVia==0 && $nombreVia!='' && $numero=='' &&  $lote!='' &&  $manzana!=''):[m
+[32m+[m[32m            $queryAdd = "WHERE nombre_via LIKE '%".$nombreVia."%' and lote='".$lote."' and manzana='".$manzana."'";[m
+[32m+[m[32m            break;[m
+ [m
+[31m-[m
+[31m-        //NUMERO, NOMBRE DE VIA, LOTE,MANZANA[m
+[32m+[m[32m        //4 NUMERO && NOMBRE DE VIA && LOTE && MANZANA[m
+         case ($tipoZona==0 && $zona=='' && $denominacion=='' && $tipoVia==0 && $nombreVia!='' && $numero!='' &&  $lote!='' &&  $manzana!=''):[m
+             $queryAdd = "WHERE numero='".$numero."' and nombre_via LIKE '%".$nombreVia."%' and lote='".$lote."' and manzana='".$manzana."'";[m
+             break;[m
+[32m+[m[41m        [m
+[32m+[m[32m        //4 DENOMINACION && TIPO VIA && NOMBRE VIA && LOTE && MANZANA[m[41m    [m
+[32m+[m[32m        case ($tipoZona==0 && $zona=='' && $denominacion!='' && $tipoVia!=0 && $nombreVia!='' && $numero=='' &&  $lote!='' &&  $manzana!=''):[m
+[32m+[m[32m            $queryAdd = "WHERE denominacion LIKE '%".$denominacion."%' and tipo_via='".$tipoVia."' and nombre_via LIKE '%".$nombreVia."%' and lote='".$lote."' and manzana='".$manzana."'";[m
+[32m+[m[32m            break;[m
+ [m
+[31m-        //NOMBRE VIA, LOTE, MANZANA[m
+[31m-        case ($tipoZona==0 && $zona=='' && $denominacion=='' && $tipoVia==0 && $nombreVia!='' && $numero=='' &&  $lote!='' &&  $manzana!=''):[m
+[31m-            $queryAdd = "WHERE nombre_via LIKE '%".$nombreVia."%' and lote='".$lote."' and manzana='".$manzana."'";[m
+[32m+[m[32m        //4 DENOMINACION && NOMBRE VIA && LOTE && MANZANA[m
+[32m+[m[32m        case ($tipoZona==0 && $zona=='' && $denominacion!='' && $tipoVia==0 && $nombreVia!='' && $numero=='' &&  $lote!='' &&  $manzana!=''):[m
+[32m+[m[32m            $queryAdd = "WHERE denominacion LIKE '%".$denominacion."%' and nombre_via LIKE '%".$nombreVia."%' and lote='".$lote."' and manzana='".$manzana."'";[m
+[32m+[m[32m            break;[m
+[32m+[m
+[32m+[m[32m        //4 ZONA && DENOMINACION && TIPO VIA && NOMBRE VIA[m[41m    [m
+[32m+[m[32m        case ($tipoZona==0 && $zona!='' && $denominacion!='' && $tipoVia!=0 && $nombreVia!='' && $numero=='' &&  $lote=='' &&  $manzana==''):[m
+[32m+[m[32m            $queryAdd = "WHERE zona LIKE '%".$zona."%' and denominacion LIKE '%".$denominacion."%' and tipo_via='".$tipoVia."' and nombre_via LIKE '%".$nombreVia."%'";[m
+             break;[m
+ [m
+[31m-        //TIPO VIA, NOMBRE VIA, NUMERO, LOTE, MANZANA[m
+[32m+[m[41m        [m
+[32m+[m[32m        //5 TIPO VIA && NOMBRE VIA && NUMERO && LOTE && MANZANA[m
+         case ($tipoZona==0 && $zona=='' && $denominacion=='' && $tipoVia!=0 && $nombreVia!='' && $numero!='' &&  $lote!='' &&  $manzana!=''):[m
+             $queryAdd = "WHERE tipo_via='".$tipoVia."' and nombre_via LIKE '%".$nombreVia."%' and numero='".$numero."' and lote='".$lote."' and manzana='".$manzana."'";[m
+              break;[m
+[31m-        [m
+[31m-        //DENOMINACION, TIPO VIA, NOMBRE VIA, NUMERO ,LOTE , MANZANA[m
+[31m-        case ($tipoZona==0 && $zona=='' && $denominacion!='' && $tipoVia!=0 && $nombreVia!='' && $numero!='' &&  $lote!='' &&  $manzana!=''):[m
+[31m-            $queryAdd = "WHERE denominacion LIKE '%".$denominacion."%' and tipo_via='".$tipoVia."' and nombre_via LIKE '%".$nombreVia."%' and numero='".$numero."' and lote='".$lote."' and manzana='".$manzana."'";[m
+[31m-            break;[m
+[31m-[m
+[31m-        //TIPO ZONA, ZONA, DENOMINACION, TIPO VIA, NOMBRE VIA, NUMERO , LOTE, MANZANA[m
+[31m-        case ($tipoZona!=0 && $zona!='' && $denominacion!='' && $tipoVia!=0 && $nombreVia!='' && $numero!='' &&  $lote!='' &&  $manzana!=''):[m
+[31m-            $queryAdd = "WHERE tipo_zona='".$tipoZona."' and zona LIKE '%".$zona."%' and denominacion LIKE '%".$denominacion."%' and tipo_via='".$tipoVia."' and nombre_via LIKE '%".$nombreVia."%' and numero='".$numero."' and lote='".$lote."' and manzana='".$manzana."'";[m
+[31m-            break;[m
+ [m
+[31m-        //TIPO ZONA, ZONA, DENOMINACION, TIPO VIA, NOMBRE VIA[m
+[32m+[m[32m        //5 TIPO ZONA && ZONA && DENOMINACION && TIPO VIA && NOMBRE VIA[m
+         case ($tipoZona!=0 && $zona!='' && $denominacion!='' && $tipoVia!=0 && $nombreVia!='' && $numero=='' &&  $lote=='' &&  $manzana==''):[m
+             $queryAdd = "WHERE tipo_zona='".$tipoZona."' and zona LIKE '%".$zona."%' and denominacion LIKE '%".$denominacion."%' and tipo_via='".$tipoVia."' and nombre_via LIKE '%".$nombreVia."%'";[m
+             break;[m
+[31m-[m
+[31m-        //ZONA, DENOMINACION, TIPO VIA, NOMBRE VIA    [m
+[31m-        case ($tipoZona==0 && $zona!='' && $denominacion!='' && $tipoVia!=0 && $nombreVia!='' && $numero=='' &&  $lote=='' &&  $manzana==''):[m
+[31m-            $queryAdd = "WHERE zona LIKE '%".$zona."%' and denominacion LIKE '%".$denominacion."%' and tipo_via='".$tipoVia."' and nombre_via LIKE '%".$nombreVia."%'";[m
+[31m-            break;[m
+[31m-          [m
+[31m-        //ZONA, DENOMINACION, TIPO VIA, NOMBRE VIA, NUMERO    [m
+[32m+[m[41m        [m
+[32m+[m[32m        //5 ZONA && DENOMINACION && TIPO VIA && NOMBRE VIA && NUMERO[m[41m    [m
+         case ($tipoZona!=0 && $zona!='' && $denominacion!='' && $tipoVia!=0 && $nombreVia!='' && $numero!='' &&  $lote=='' &&  $manzana==''):[m
+             $queryAdd = "WHERE zona LIKE '%".$zona."%' and denominacion LIKE '%".$denominacion."%' and tipo_via='".$tipoVia."' and nombre_via LIKE '%".$nombreVia."%' and numero='".$numero."'";[m
+             break;[m
+[31m-[m
+[31m-        //DENOMINACION, TIPO VIA, NOMBRE VIA, LOTE, MANZANA    [m
+[31m-        case ($tipoZona==0 && $zona=='' && $denominacion!='' && $tipoVia!=0 && $nombreVia!='' && $numero=='' &&  $lote!='' &&  $manzana!=''):[m
+[31m-            $queryAdd = "WHERE denominacion LIKE '%".$denominacion."%' and tipo_via='".$tipoVia."' and nombre_via LIKE '%".$nombreVia."%' and lote='".$lote."' and manzana='".$manzana."'";[m
+[32m+[m[41m        [m
+[32m+[m[32m        //6 DENOMINACION &&  TIPO VIA &&  NOMBRE VIA &&  NUMERO  && LOTE  &&  MANZANA[m
+[32m+[m[32m        case ($tipoZona==0 && $zona=='' && $denominacion!='' && $tipoVia!=0 && $nombreVia!='' && $numero!='' &&  $lote!='' &&  $manzana!=''):[m
+[32m+[m[32m            $queryAdd = "WHERE denominacion LIKE '%".$denominacion."%' and tipo_via='".$tipoVia."' and nombre_via LIKE '%".$nombreVia."%' and numero='".$numero."' and lote='".$lote."' and manzana='".$manzana."'";[m
+             break;[m
+[31m-[m
+[31m-        //DENOMINACION, NOMBRE VIA, LOTE, MANZANA[m
+[31m-        case ($tipoZona==0 && $zona=='' && $denominacion!='' && $tipoVia==0 && $nombreVia!='' && $numero=='' &&  $lote!='' &&  $manzana!=''):[m
+[31m-            $queryAdd = "WHERE denominacion LIKE '%".$denominacion."%' and nombre_via LIKE '%".$nombreVia."%' and lote='".$lote."' and manzana='".$manzana."'";[m
+[32m+[m[41m        [m
+[32m+[m[32m        //8 TIPO ZONA && ZONA && DENOMINACION && TIPO VIA && NOMBRE VIA && NUMERO  && LOTE && MANZANA[m
+[32m+[m[32m        case ($tipoZona!=0 && $zona!='' && $denominacion!='' && $tipoVia!=0 && $nombreVia!='' && $numero!='' &&  $lote!='' &&  $manzana!=''):[m
+[32m+[m[32m            $queryAdd = "WHERE tipo_zona='".$tipoZona."' and zona LIKE '%".$zona."%' and denominacion LIKE '%".$denominacion."%' and tipo_via='".$tipoVia."' and nombre_via LIKE '%".$nombreVia."%' and numero='".$numero."' and lote='".$lote."' and manzana='".$manzana."'";[m
+             break;[m
+[31m-[m
+[32m+[m[41m  [m
+         default:[m
+             $queryAdd = "ERROR";[m
+     }[m
+[36m@@ -123,7 +133,7 @@[m
+         while($row = mysql_fetch_assoc($resultPredio)){[m
+             $arrPredio['predio'][] = array([m
+                 'denominacion' => $row['denominacion'],[m
+[31m-                'propietario' => 'EN CONSTRUCCION',[m
+[32m+[m[32m                'propietario' => '<<<<< VEA EN EL KARDEX',[m
+                 'tipoZona' => $row['tipo_zona'],[m
+                 'zona' => $row['zona'],[m
+                 'tipoVia' => $row['tipo_via'],[m

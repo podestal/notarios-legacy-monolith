@@ -1,0 +1,16 @@
+<li>
+		
+		<a href="nodisponible.html" target="principal">Sisgen</a>
+		<ul>
+			<?php
+			if($row['sisgen'] == '1'){
+				if($row['firma'] == '1'){
+				echo'<li><a href="mantenimiento/view/firmasisg/sisgen.php" target="principal">Base Centralizada</a></li>';
+				}else{
+				echo'<li><a href="mantenimiento/view/sisg/sisgen.php" target="principal">Base Centralizada</a></li>';
+				}
+			}
+			echo'<li><a  href="sisgen/index.php#" target="_blank">Seguimiento</a></li>';
+			?>
+		</ul>		
+	</li>

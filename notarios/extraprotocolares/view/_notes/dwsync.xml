@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="listcartas.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226268885270058" remote="130226268880000000" Dst="-1" />
+<file name="CartasVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226247876008764" remote="130226247870000000" Dst="-1" />
+<file name="EditCartasVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130235796521810790" remote="130235796520000000" Dst="-1" />
+<file name="IngCartasVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130235795512203043" remote="130235795510000000" Dst="-1" />
+<file name="listCertDomi.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130239980942471504" remote="130239980940000000" Dst="-1" />
+<file name="listPCapazVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226269192185960" remote="130226269190000000" Dst="-1" />
+<file name="listPIncapazVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226269561913728" remote="130226269560000000" Dst="-1" />
+<file name="CartasAyuda.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226247723140778" remote="130226247720000000" Dst="-1" />
+<file name="CDomiciliarioVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130051753260000000" remote="130051753260000000" Dst="-1" />
+<file name="CertPCapazVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130057865300000000" remote="130057865300000000" Dst="-1" />
+<file name="CertPIncapazVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130057865420000000" remote="130057865420000000" Dst="-1" />
+<file name="CrearBloque.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226249974785288" remote="130226249970000000" Dst="-1" />
+<file name="EditContratantes.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130239265892611042" remote="130239265890000000" Dst="-1" />
+<file name="EditParticipantes.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130239325267077067" remote="130239325260000000" Dst="-1" />
+<file name="EditPCapazVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247681042138576" remote="130247681040000000" Dst="-1" />
+<file name="EditPermiObserva.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226258314984006" remote="130226258310000000" Dst="-1" />
+<file name="EditPermiViajeVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130252857983992894" remote="130252857980000000" Dst="-1" />
+<file name="EditPIncapazVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247688185517154" remote="130247688180000000" Dst="-1" />
+<file name="EditPoderesVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130235789054883706" remote="130235789050000000" Dst="-1" />
+<file name="Evalpersona.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130051595140000000" remote="130051595140000000" Dst="-1" />
+<file name="IngPoderesVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130239280391700342" remote="130239280390000000" Dst="-1" />
+<file name="listdetallecarta.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130058579420000000" remote="130058579420000000" Dst="-1" />
+<file name="listpermiviaje.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130234893394776357" remote="130234893390000000" Dst="-1" />
+<file name="listPoderes.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130238430314920622" remote="130238430310000000" Dst="-1" />
+<file name="NewContratantes.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226271459139817" remote="130226271450000000" Dst="-1" />
+<file name="NewParticipantes.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226273462547797" remote="130226273460000000" Dst="-1" />
+<file name="PCapazVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247686781166830" remote="130247686780000000" Dst="-1" />
+<file name="PermiContratantes.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226279394678212" remote="130226279390000000" Dst="-1" />
+<file name="PermiObserva.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226279759875797" remote="130226279750000000" Dst="-1" />
+<file name="PermiParticipantes.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130239331763298630" remote="130239331760000000" Dst="-1" />
+<file name="PermiviajeVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130238430657050191" remote="130238430650000000" Dst="-1" />
+<file name="PIncapazVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247687162488640" remote="130247687160000000" Dst="-1" />
+<file name="PoderContratantes.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130239984024787802" remote="130239984020000000" Dst="-1" />
+<file name="PoderEssalud.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226285287616963" remote="130226285280000000" Dst="-1" />
+<file name="PoderesVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130054213480000000" remote="130054213480000000" Dst="-1" />
+<file name="PoderGenerador.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226285676528599" remote="130226285670000000" Dst="-1" />
+<file name="PoderPensiones.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226286212368397" remote="130226286210000000" Dst="-1" />
+<file name="PViajeVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130050846740000000" remote="130050846740000000" Dst="-1" />
+<file name="mostrarclientelib.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226270108357430" remote="130226270100000000" Dst="-1" />
+<file name="mostrarempresalib.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130173763916427544" remote="130173763910000000" Dst="-1" />
+<file name="mostrarclientelib2.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226270350463520" remote="130226270350000000" Dst="-1" />
+<file name="mostrarempresalib2.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226270727187651" remote="130226270720000000" Dst="-1" />
+<file name="mostrarclientelibCar.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226270526951653" remote="130226270520000000" Dst="-1" />
+<file name="AddNewCliente.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130057774880000000" remote="130057774880000000" Dst="-1" />
+<file name="AddParticipante.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226244980234464" remote="130226244980000000" Dst="-1" />
+<file name="listParticipanteDet.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130057014780000000" remote="130057014780000000" Dst="-1" />
+<file name="NewContratantes2.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247677335606574" remote="130247677330000000" Dst="-1" />
+<file name="NewParticipantes2.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247665008481503" remote="130247665000000000" Dst="-1" />
+<file name="NewRemitente.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226276621623868" remote="130226276620000000" Dst="-1" />
+<file name="mostrarexisconyuge.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247668161211829" remote="130247668160000000" Dst="-1" />
+<file name="mostrarnewconyuge.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247667582788745" remote="130247667580000000" Dst="-1" />
+<file name="buscadni.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130234960434890832" remote="130234960430000000" Dst="-1" />
+<file name="IngPoderGenerar.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226268619786868" remote="130226268610000000" Dst="-1" />
+<file name="PermiViajeGenerar.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226281338441809" remote="130226281330000000" Dst="-1" />
+<file name="CambioCaracVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130239976710259435" remote="130239976710000000" Dst="-1" />
+<file name="editCambioCaracVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130247697256395978" remote="130247697250000000" Dst="-1" />
+<file name="listCambioCaract.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130226268757271407" remote="130226268750000000" Dst="-1" />
+<file name="CCaracteristicasVie.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130063877500000000" remote="130063877500000000" Dst="-1" />
+<file name="listdetCCarac.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130239977834503738" remote="130239977830000000" Dst="-1" />
+<file name="pruebassss.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130211810321819973" remote="130211810320000000" Dst="-1" />
+<file name="EditDatosClient.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="130239268556423403" remote="130239268550000000" Dst="-1" />
+<file name="addContratanteJ.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130643659020000000" remote="130643659020000000" Dst="0" />
+<file name="addContratanteJ_datos.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130643671480000000" remote="130643671480000000" Dst="0" />
+<file name="addContratanteN.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130643656020000000" remote="130643656020000000" Dst="0" />
+<file name="addContratanteN_datos.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130643671740000000" remote="130643671740000000" Dst="0" />
+<file name="AddNewCliente.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589060000000" remote="130630589060000000" Dst="0" />
+<file name="AddParticipante.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589060000000" remote="130630589060000000" Dst="0" />
+<file name="afsfsa.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130644281780000000" remote="130644281780000000" Dst="0" />
+<file name="ajaxcapaz.js" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780036380000000" remote="130780036380000000" Dst="0" />
+<file name="ajaxcaract.js" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130718552600000000" remote="130718552600000000" Dst="0" />
+<file name="ajaxcart.js" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130644525520000000" remote="130644525520000000" Dst="0" />
+<file name="ajaxcc.js" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130765319500000000" remote="130765319500000000" Dst="0" />
+<file name="ajaxdom.js" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130644516460000000" remote="130644516460000000" Dst="0" />
+<file name="ajaxincapaz.js" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780073680000000" remote="130780073680000000" Dst="0" />
+<file name="buscadni.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588940000000" remote="130630588940000000" Dst="0" />
+<file name="buscaPCapaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588940000000" remote="130630588940000000" Dst="0" />
+<file name="buscaprofesionnescert.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588940000000" remote="130630588940000000" Dst="0" />
+<file name="buscaprofesionnesconyuge.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588940000000" remote="130630588940000000" Dst="0" />
+<file name="buscaprofesionnesconyuge2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588940000000" remote="130630588940000000" Dst="0" />
+<file name="buscaprofesionnesdomic.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588940000000" remote="130630588940000000" Dst="0" />
+<file name="buscarubigeogen.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588940000000" remote="130630588940000000" Dst="0" />
+<file name="buscarubigeosc2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588940000000" remote="130630588940000000" Dst="0" />
+<file name="buscar_clientes_capaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780049200000000" remote="130780049200000000" Dst="0" />
+<file name="buscar_clientes_car.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130718098900000000" remote="130718098900000000" Dst="0" />
+<file name="buscar_clientes_caract.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130718567640000000" remote="130718567640000000" Dst="0" />
+<file name="buscar_clientes_cc.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130765314860000000" remote="130765314860000000" Dst="0" />
+<file name="buscar_clientes_dom.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130718096960000000" remote="130718096960000000" Dst="0" />
+<file name="buscar_clientes_incapaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780075060000000" remote="130780075060000000" Dst="0" />
+<file name="busquedalibro.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130994243412785519" remote="130994243410000000" Dst="0" />
+<file name="busqueda_cambios.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588940000000" remote="130630588940000000" Dst="0" />
+<file name="busqueda_capaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588920000000" remote="130630588920000000" Dst="0" />
+<file name="busqueda_cartas.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588920000000" remote="130630588920000000" Dst="0" />
+<file name="busqueda_domiciliarios.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130621910680000000" remote="130621910680000000" Dst="0" />
+<file name="busqueda_incapaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588920000000" remote="130630588920000000" Dst="0" />
+<file name="busqueda_poderes.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588920000000" remote="130630588920000000" Dst="0" />
+<file name="busqueda_viajes.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130622985820000000" remote="130622985820000000" Dst="0" />
+<file name="busqueda_viajesoriginal.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588920000000" remote="130630588920000000" Dst="0" />
+<file name="busqueda_viajes_zebra.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588920000000" remote="130630588920000000" Dst="0" />
+<file name="CambioCaracVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130773300620000000" remote="130773300620000000" Dst="0" />
+<file name="CartasAyuda.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589060000000" remote="130630589060000000" Dst="0" />
+<file name="CartasVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130771420200000000" remote="130771420200000000" Dst="0" />
+<file name="cbopersonapoder.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588900000000" remote="130630588900000000" Dst="0" />
+<file name="CCaracteristicasVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130771421760000000" remote="130771421760000000" Dst="0" />
+<file name="CDomiciliarioVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130771421820000000" remote="130771421820000000" Dst="0" />
+<file name="CertDomiVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130680072640000000" remote="130680072640000000" Dst="0" />
+<file name="CertDomiVie_fran.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589040000000" remote="130630589040000000" Dst="0" />
+<file name="CertPCapazVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130771421280000000" remote="130771421280000000" Dst="0" />
+<file name="CertPIncapazVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130771421220000000" remote="130771421220000000" Dst="0" />
+<file name="clear_text_caract.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130684046940000000" remote="130684046940000000" Dst="0" />
+<file name="clear_text_clie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130644292520000000" remote="130644292520000000" Dst="0" />
+<file name="clear_text_dom.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130644395460000000" remote="130644395460000000" Dst="0" />
+<file name="conexion.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588900000000" remote="130630588900000000" Dst="0" />
+<file name="CrearBloque.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589040000000" remote="130630589040000000" Dst="0" />
+<file name="EdiCertDomiVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130771413380000000" remote="130771413380000000" Dst="0" />
+<file name="EdiCertDomiVie_fran.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589040000000" remote="130630589040000000" Dst="0" />
+<file name="editCambioCaracVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130765321540000000" remote="130765321540000000" Dst="0" />
+<file name="EditCartasVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130716960060000000" remote="130716960060000000" Dst="0" />
+<file name="EditContCambiosView.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589040000000" remote="130630589040000000" Dst="0" />
+<file name="EditContratantes.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589020000000" remote="130630589020000000" Dst="0" />
+<file name="EditDatosClient.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589020000000" remote="130630589020000000" Dst="0" />
+<file name="EditDatosClient1.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589020000000" remote="130630589020000000" Dst="0" />
+<file name="EditParticipantes.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589020000000" remote="130630589020000000" Dst="0" />
+<file name="EditPCapazVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589020000000" remote="130630589020000000" Dst="0" />
+<file name="EditPermiObserva.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589020000000" remote="130630589020000000" Dst="0" />
+<file name="EditPermiViajeVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="131018602516460754" remote="131018602510000000" Dst="0" />
+<file name="EditPIncapazVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589020000000" remote="130630589020000000" Dst="0" />
+<file name="EditPoderesVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="131018632102812996" remote="131018632100000000" Dst="0" />
+<file name="EditSolicitante.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589000000000" remote="130630589000000000" Dst="0" />
+<file name="EditSolicitante1.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589000000000" remote="130630589000000000" Dst="0" />
+<file name="Evalpersona.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630589000000000" remote="130630589000000000" Dst="0" />
+<file name="funciones.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130973542582862412" remote="130973542580000000" Dst="0" />
+<file name="genera_cambio.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588900000000" remote="130630588900000000" Dst="0" />
+<file name="genera_carta.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588900000000" remote="130630588900000000" Dst="0" />
+<file name="genera_domiciliario.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588900000000" remote="130630588900000000" Dst="0" />
+<file name="genera_pcapaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588880000000" remote="130630588880000000" Dst="0" />
+<file name="genera_permiviaje.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588900000000" remote="130630588900000000" Dst="0" />
+<file name="genera_pincapaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588880000000" remote="130630588880000000" Dst="0" />
+<file name="genera_poder.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588880000000" remote="130630588880000000" Dst="0" />
+<file name="grabar_cliente_capaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780067980000000" remote="130780067980000000" Dst="0" />
+<file name="grabar_cliente_capaz2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780025720000000" remote="130780025720000000" Dst="0" />
+<file name="grabar_cliente_car.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130644411260000000" remote="130644411260000000" Dst="0" />
+<file name="grabar_cliente_car2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130644528800000000" remote="130644528800000000" Dst="0" />
+<file name="grabar_cliente_caract.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130718600620000000" remote="130718600620000000" Dst="0" />
+<file name="grabar_cliente_caract2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130644519760000000" remote="130644519760000000" Dst="0" />
+<file name="grabar_cliente_cc.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130765325800000000" remote="130765325800000000" Dst="0" />
+<file name="grabar_cliente_dom.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130644491040000000" remote="130644491040000000" Dst="0" />
+<file name="grabar_cliente_dom2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130644519760000000" remote="130644519760000000" Dst="0" />
+<file name="grabar_cliente_incapaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780086960000000" remote="130780086960000000" Dst="0" />
+<file name="grabar_cliente_incapaz2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780026300000000" remote="130780026300000000" Dst="0" />
+<file name="IngCartasVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130661564420000000" remote="130661564420000000" Dst="0" />
+<file name="IngCartasVieddddd.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130643673240000000" remote="130643673240000000" Dst="0" />
+<file name="IngPoderesVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130657303600000000" remote="130657303600000000" Dst="0" />
+<file name="IngPoderGenerar.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="131018626313551870" remote="131018626310000000" Dst="0" />
+<file name="libros.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130771420700000000" remote="130771420700000000" Dst="0" />
+<file name="listadolibro.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780020480000000" remote="130780020480000000" Dst="0" />
+<file name="listCambioCaract.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780020340000000" remote="130780020340000000" Dst="0" />
+<file name="listcartas.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780020260000000" remote="130780020260000000" Dst="0" />
+<file name="listCertDomi.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780020120000000" remote="130780020120000000" Dst="0" />
+<file name="listdetallecarta.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588860000000" remote="130630588860000000" Dst="0" />
+<file name="listdetCCarac.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588860000000" remote="130630588860000000" Dst="0" />
+<file name="listParticipanteDet.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257800000000" remote="130284257800000000" Dst="0" />
+<file name="listPCapazVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780019720000000" remote="130780019720000000" Dst="0" />
+<file name="listpermiviaje.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780018720000000" remote="130780018720000000" Dst="0" />
+<file name="listpermiviajeoriginal.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588860000000" remote="130630588860000000" Dst="0" />
+<file name="listPIncapazVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780019000000000" remote="130780019000000000" Dst="0" />
+<file name="listPoderes.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780019500000000" remote="130780019500000000" Dst="0" />
+<file name="list_cambios.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588880000000" remote="130630588880000000" Dst="0" />
+<file name="list_cambiosnew.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588860000000" remote="130630588860000000" Dst="0" />
+<file name="mostrarclientecapaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780061360000000" remote="130780061360000000" Dst="0" />
+<file name="mostrarclientecapaz2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780025380000000" remote="130780025380000000" Dst="0" />
+<file name="mostrarclientecar.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130657311020000000" remote="130657311020000000" Dst="0" />
+<file name="mostrarclientecar2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130644308700000000" remote="130644308700000000" Dst="0" />
+<file name="mostrarclientecaract.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130686930360000000" remote="130686930360000000" Dst="0" />
+<file name="mostrarclientecaract2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130686932000000000" remote="130686932000000000" Dst="0" />
+<file name="mostrarclientecc.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130765327620000000" remote="130765327620000000" Dst="0" />
+<file name="mostrarclientecc2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130765328140000000" remote="130765328140000000" Dst="0" />
+<file name="mostrarclientedom.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130680073200000000" remote="130680073200000000" Dst="0" />
+<file name="mostrarclientedom2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130680078560000000" remote="130680078560000000" Dst="0" />
+<file name="mostrarclienteincapaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780083060000000" remote="130780083060000000" Dst="0" />
+<file name="mostrarclienteincapaz2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780026580000000" remote="130780026580000000" Dst="0" />
+<file name="mostrarclientelib.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588860000000" remote="130630588860000000" Dst="0" />
+<file name="mostrarclientelib2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588860000000" remote="130630588860000000" Dst="0" />
+<file name="mostrarclientelibCar.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588860000000" remote="130630588860000000" Dst="0" />
+<file name="mostrarclientelibdoble.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588840000000" remote="130630588840000000" Dst="0" />
+<file name="mostrarempresalib.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588840000000" remote="130630588840000000" Dst="0" />
+<file name="mostrarempresalib2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588840000000" remote="130630588840000000" Dst="0" />
+<file name="mostrarexisconyuge.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588840000000" remote="130630588840000000" Dst="0" />
+<file name="mostrarnewconyuge.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588840000000" remote="130630588840000000" Dst="0" />
+<file name="NewContratantes.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130493118140000000" remote="130493118140000000" Dst="0" />
+<file name="NewContratantes2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="131020969984034408" remote="131020969980000000" Dst="0" />
+<file name="NewParticipantes.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257800000000" remote="130284257800000000" Dst="0" />
+<file name="NewParticipantes2.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130534675600000000" remote="130534675600000000" Dst="0" />
+<file name="NewRemitente.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130386344760000000" remote="130386344760000000" Dst="0" />
+<file name="PCapazVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780066100000000" remote="130780066100000000" Dst="0" />
+<file name="PCapazVie_new.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130740475940000000" remote="130740475940000000" Dst="0" />
+<file name="PermiContratantes.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257800000000" remote="130284257800000000" Dst="0" />
+<file name="PermiObserva.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257800000000" remote="130284257800000000" Dst="0" />
+<file name="PermiParticipantes.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130556167340000000" remote="130556167340000000" Dst="0" />
+<file name="PermiViajeGenerar.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="131018617618754556" remote="131018617610000000" Dst="0" />
+<file name="PermiviajeVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130771397140000000" remote="130771397140000000" Dst="0" />
+<file name="PIncapazVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130780084020000000" remote="130780084020000000" Dst="0" />
+<file name="PoderContratantes.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="131020293196935231" remote="131020293190000000" Dst="0" />
+<file name="PoderEssalud.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257800000000" remote="130284257800000000" Dst="0" />
+<file name="PoderesVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130771419840000000" remote="130771419840000000" Dst="0" />
+<file name="PoderGenerador.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130749075120000000" remote="130749075120000000" Dst="0" />
+<file name="PoderPensiones.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257800000000" remote="130284257800000000" Dst="0" />
+<file name="pruebaCOM.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588840000000" remote="130630588840000000" Dst="0" />
+<file name="pruebassss.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588840000000" remote="130630588840000000" Dst="0" />
+<file name="PViajeVie.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130771389040000000" remote="130771389040000000" Dst="0" />
+<file name="registrar_domiciliario.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130630588840000000" remote="130630588840000000" Dst="0" />
+<file name="stylesglobal.css" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130464925840000000" remote="130464925840000000" Dst="0" />
+<file name="ValidarDniCapaz.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130740479080000000" remote="130740479080000000" Dst="0" />
+<file name="ValidarDni_cartas.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130643676980000000" remote="130643676980000000" Dst="0" />
+</dwsync>

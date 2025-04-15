@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="tbs_us_examples_styles.css" server="//WIN-2LYCPYN2Y1F/notarios/" local="129424415820000000" remote="129424415820000000" Dst="-1" />
+<file name="class.phpmailer.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129298447740000000" remote="129298447740000000" Dst="-1" />
+<file name="tbs_class.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895650740000000" remote="129895650740000000" Dst="-1" />
+<file name="tbs_plugin_bypage.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129288710020000000" remote="129288710020000000" Dst="-1" />
+<file name="tbs_plugin_cache.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129288710020000000" remote="129288710020000000" Dst="-1" />
+<file name="tbs_plugin_html.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129288710020000000" remote="129288710020000000" Dst="-1" />
+<file name="tbs_plugin_navbar.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129288710020000000" remote="129288710020000000" Dst="-1" />
+<file name="tbs_us_examples.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129711642060000000" remote="129711642060000000" Dst="-1" />
+<file name="tbs_us_examples_assign.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129424445360000000" remote="129424445360000000" Dst="-1" />
+<file name="tbs_us_examples_assign.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895649260000000" remote="129895649260000000" Dst="-1" />
+<file name="tbs_us_examples_blocks.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129424457200000000" remote="129424457200000000" Dst="-1" />
+<file name="tbs_us_examples_blocks.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895651160000000" remote="129895651160000000" Dst="-1" />
+<file name="tbs_us_examples_cache.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129424459260000000" remote="129424459260000000" Dst="-1" />
+<file name="tbs_us_examples_cache.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895651220000000" remote="129895651220000000" Dst="-1" />
+<file name="tbs_us_examples_cond.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129782510920000000" remote="129782510920000000" Dst="-1" />
+<file name="tbs_us_examples_cond.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895651440000000" remote="129895651440000000" Dst="-1" />
+<file name="tbs_us_examples_dataarray.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129424483820000000" remote="129424483820000000" Dst="-1" />
+<file name="tbs_us_examples_dataarray.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895651580000000" remote="129895651580000000" Dst="-1" />
+<file name="tbs_us_examples_datamysql.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129425418700000000" remote="129425418700000000" Dst="-1" />
+<file name="tbs_us_examples_datamysql.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895651640000000" remote="129895651640000000" Dst="-1" />
+<file name="tbs_us_examples_datamysql.sql" server="//WIN-2LYCPYN2Y1F/notarios/" local="129288710040000000" remote="129288710040000000" Dst="-1" />
+<file name="tbs_us_examples_datanum.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129424487620000000" remote="129424487620000000" Dst="-1" />
+<file name="tbs_us_examples_datanum.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895651700000000" remote="129895651700000000" Dst="-1" />
+<file name="tbs_us_examples_datapostgresql.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129425419440000000" remote="129425419440000000" Dst="-1" />
+<file name="tbs_us_examples_datapostgresql.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895651740000000" remote="129895651740000000" Dst="-1" />
+<file name="tbs_us_examples_datasqlite.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129425419700000000" remote="129425419700000000" Dst="-1" />
+<file name="tbs_us_examples_datasqlite.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895651800000000" remote="129895651800000000" Dst="-1" />
+<file name="tbs_us_examples_dyncol.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129425306360000000" remote="129425306360000000" Dst="-1" />
+<file name="tbs_us_examples_dyncol.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895651860000000" remote="129895651860000000" Dst="-1" />
+<file name="tbs_us_examples_email.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895651920000000" remote="129895651920000000" Dst="-1" />
+<file name="tbs_us_examples_email.txt" server="//WIN-2LYCPYN2Y1F/notarios/" local="129298598200000000" remote="129298598200000000" Dst="-1" />
+<file name="tbs_us_examples_event.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129448058500000000" remote="129448058500000000" Dst="-1" />
+<file name="tbs_us_examples_event.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895651960000000" remote="129895651960000000" Dst="-1" />
+<file name="tbs_us_examples_form.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129448057940000000" remote="129448057940000000" Dst="-1" />
+<file name="tbs_us_examples_form.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652020000000" remote="129895652020000000" Dst="-1" />
+<file name="tbs_us_examples_grouping.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129424526480000000" remote="129424526480000000" Dst="-1" />
+<file name="tbs_us_examples_grouping.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652120000000" remote="129895652120000000" Dst="-1" />
+<file name="tbs_us_examples_hello.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129448064300000000" remote="129448064300000000" Dst="-1" />
+<file name="tbs_us_examples_hello.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_page.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129448046800000000" remote="129448046800000000" Dst="-1" />
+<file name="tbs_us_examples_page.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_prmatt.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129425369120000000" remote="129425369120000000" Dst="-1" />
+<file name="tbs_us_examples_prmatt.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_prmcomm.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129425372000000000" remote="129425372000000000" Dst="-1" />
+<file name="tbs_us_examples_prmcomm.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_prmfrm.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129424512380000000" remote="129424512380000000" Dst="-1" />
+<file name="tbs_us_examples_prmfrm.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_prmmagnet.gif" server="//WIN-2LYCPYN2Y1F/notarios/" local="129288710060000000" remote="129288710060000000" Dst="-1" />
+<file name="tbs_us_examples_prmmagnet.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129782510940000000" remote="129782510940000000" Dst="-1" />
+<file name="tbs_us_examples_prmmagnet.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_prmope.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129425205220000000" remote="129425205220000000" Dst="-1" />
+<file name="tbs_us_examples_prmope.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_prmsel.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129425215720000000" remote="129425215720000000" Dst="-1" />
+<file name="tbs_us_examples_prmsel.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_prmserial.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129425227700000000" remote="129425227700000000" Dst="-1" />
+<file name="tbs_us_examples_prmserial.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_script.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129425267080000000" remote="129425267080000000" Dst="-1" />
+<file name="tbs_us_examples_script.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_script1.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_subblock.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129425370740000000" remote="129425370740000000" Dst="-1" />
+<file name="tbs_us_examples_subblock.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_subtpl.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129711642000000000" remote="129711642000000000" Dst="-1" />
+<file name="tbs_us_examples_subtpl.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_subtpl_article0.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129711641920000000" remote="129711641920000000" Dst="-1" />
+<file name="tbs_us_examples_subtpl_article1.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129711641920000000" remote="129711641920000000" Dst="-1" />
+<file name="tbs_us_examples_subtpl_article2.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129711641920000000" remote="129711641920000000" Dst="-1" />
+<file name="tbs_us_examples_subtpl_article3.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129711641920000000" remote="129711641920000000" Dst="-1" />
+<file name="tbs_us_examples_subtpl_footer.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129711641920000000" remote="129711641920000000" Dst="-1" />
+<file name="tbs_us_examples_subtpl_header.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129711641920000000" remote="129711641920000000" Dst="-1" />
+<file name="tbs_us_examples_subtpl_login.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129711641940000000" remote="129711641940000000" Dst="-1" />
+<file name="tbs_us_examples_subtpl_login.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples_subtpl_menu.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129711641940000000" remote="129711641940000000" Dst="-1" />
+<file name="tbs_us_examples_var.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129425310320000000" remote="129425310320000000" Dst="-1" />
+<file name="tbs_us_examples_var.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652840000000" remote="129895652840000000" Dst="-1" />
+<file name="tbs_us_examples__sidebar.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129711625800000000" remote="129711625800000000" Dst="-1" />
+<file name="tbs_us_examples__welcome.htm" server="//WIN-2LYCPYN2Y1F/notarios/" local="129425425020000000" remote="129425425020000000" Dst="-1" />
+<file name="tbs_us_examples__welcome.php" server="//WIN-2LYCPYN2Y1F/notarios/" local="129895652820000000" remote="129895652820000000" Dst="-1" />
+<file name="class.phpmailer.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_class.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_plugin_bypage.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_plugin_cache.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_plugin_html.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_plugin_navbar.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_assign.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_assign.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_blocks.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_blocks.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_cache.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_cache.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_cond.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_cond.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_dataarray.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_dataarray.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_datamysql.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_datamysql.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_datamysql.sql" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_datanum.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_datanum.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_datapostgresql.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_datapostgresql.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_datasqlite.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_datasqlite.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_dyncol.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_dyncol.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_email.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_email.txt" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_event.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_event.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_form.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_form.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_grouping.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_grouping.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_hello.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_hello.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_page.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_page.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmatt.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmatt.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmcomm.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmcomm.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmfrm.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmfrm.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmmagnet.gif" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmmagnet.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmmagnet.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmope.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmope.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmsel.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmsel.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmserial.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_prmserial.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_script.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_script.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_script1.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_styles.css" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_subblock.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_subblock.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_subtpl.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_subtpl.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_subtpl_article0.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_subtpl_article1.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_subtpl_article2.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_subtpl_article3.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_subtpl_footer.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_subtpl_header.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_subtpl_login.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_subtpl_login.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_subtpl_menu.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_var.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples_var.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples__sidebar.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples__welcome.htm" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+<file name="tbs_us_examples__welcome.php" server="//CNL-ARCHIVOEX/Centro Ti/18/sisnot_fusion/" local="130284257500000000" remote="130284257500000000" Dst="0" />
+</dwsync>

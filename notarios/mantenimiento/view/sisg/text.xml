@@ -1,0 +1,7 @@
+<DocumentosNotariales xmlns='http://ancert.notariado.org/SISGEN/XML' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://ancert.notariado.org/SISGEN/XML C:\SISGEN\SISGEN_V2_RO\documentos_notariales.xsd'>
+	<GeneradorDatos>
+		<NomProveedor>CNL</NomProveedor>
+		<NomAplicacion>SISNOT</NomAplicacion>
+		<VersionAplicacion>2.7</VersionAplicacion>
+	</GeneradorDatos>
+</DocumentosNotariales>
