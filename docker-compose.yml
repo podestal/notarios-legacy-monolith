@@ -5,7 +5,7 @@ services:
     container_name: php_app
     restart: always
     ports:
-      - "8080:80"  # Map container's Apache port 80 to host's port 8080
+      - "8080:80"  
     volumes:
       - .:/var/www
     depends_on:
@@ -35,19 +35,30 @@ services:
       PMA_HOST: db
       MYSQL_ROOT_PASSWORD: rootpassword
 
-  # db:
-  #   image: mysql:5.7
-  #   container_name: mysql_db
-  #   restart: always
-  #   environment:
-  #     MYSQL_ROOT_PASSWORD: ${DATABASE_PASSWORD}
-  #     MYSQL_DATABASE: ${DATABASE_NAME}
-  #   ports:
-  #     - "3306:3306"
-  #   volumes:
-  #     - mysql_data:/var/lib/mysql
+  nginx:
+    build:
+      context: .
+      dockerfile: ./nginx/Dockerfile
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - ./nginx:/etc/nginx/conf.d
+      - /etc/letsencrypt:/etc/letsencrypt
+      - /var/www/certbot:/var/www/certbot
+    links:
+      - app
+    environment:
+      - ENVIRONMENT=${ENVIRONMENT}
+    entrypoint: >+
+      sh -c 'if [ "$ENVIRONMENT" = "production" ]; then
+              cp /etc/nginx/conf.d/nginx.prod.conf /etc/nginx/nginx.conf;
+             elif [ "$ENVIRONMENT" = "testing" ]; then
+              cp /etc/nginx/conf.d/nginx.test.conf /etc/nginx/nginx.conf;
+             else
+              cp /etc/nginx/conf.d/nginx.dev.conf /etc/nginx/nginx.conf;
+             fi &&
+             nginx -g "daemon off;"'
 
-# volumes:
-#   mysql_data:
 volumes:
   db_data:
